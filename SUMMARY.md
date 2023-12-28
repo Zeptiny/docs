@@ -2,6 +2,23 @@
 
 * [Bem Vindo!](README.md)
 
+## iniciando um servidor
+
+* [Escolhendo uma hospedagem](iniciando-um-servidor/escolhendo-uma-hospedagem/README.md)
+  * [Requisitos](iniciando-um-servidor/escolhendo-uma-hospedagem/requisitos.md)
+  * [Utilização da ram](iniciando-um-servidor/escolhendo-uma-hospedagem/utilizacao-da-ram.md)
+  * [Processador](iniciando-um-servidor/escolhendo-uma-hospedagem/processador.md)
+  * [Compartilhamento de recursos](iniciando-um-servidor/escolhendo-uma-hospedagem/compartilhamento-de-recursos.md)
+  * [Nada é ilimitado](iniciando-um-servidor/escolhendo-uma-hospedagem/nada-e-ilimitado.md)
+  * [Transparência](iniciando-um-servidor/escolhendo-uma-hospedagem/transparencia.md)
+  * [Uptime e SLA](iniciando-um-servidor/escolhendo-uma-hospedagem/uptime-e-sla.md)
+  * [Legais](iniciando-um-servidor/escolhendo-uma-hospedagem/legais.md)
+  * [Recursos adicionais](iniciando-um-servidor/escolhendo-uma-hospedagem/recursos-adicionais.md)
+  * [Localização da hospedagem](iniciando-um-servidor/escolhendo-uma-hospedagem/localizacao-da-hospedagem/README.md)
+    * [Deixe tudo no mesmo lugar](iniciando-um-servidor/escolhendo-uma-hospedagem/localizacao-da-hospedagem/deixe-tudo-no-mesmo-lugar.md)
+  * [Preço](iniciando-um-servidor/escolhendo-uma-hospedagem/preco.md)
+  * [Resumo](iniciando-um-servidor/escolhendo-uma-hospedagem/resumo.md)
+
 ## Rodando um servidor
 
 * [Guia de otimização](rodando-um-servidor/guia-de-otimizacao/README.md)
