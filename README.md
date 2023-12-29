@@ -26,6 +26,7 @@ Configurações básicas planejadas:
 * Como configurar:\
   \- Geyser\
   \- ViaVersion
+* Pegando IPV4 do servidor
 
 <!---->
 
