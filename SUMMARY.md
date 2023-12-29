@@ -18,6 +18,13 @@
     * [Deixe tudo no mesmo lugar](iniciando-um-servidor/escolhendo-uma-hospedagem/localizacao-da-hospedagem/deixe-tudo-no-mesmo-lugar.md)
   * [Preço](iniciando-um-servidor/escolhendo-uma-hospedagem/preco.md)
   * [Resumo](iniciando-um-servidor/escolhendo-uma-hospedagem/resumo.md)
+* [Domínio](iniciando-um-servidor/dominio/README.md)
+  * [Constituição do domínio](iniciando-um-servidor/dominio/constituicao-do-dominio.md)
+  * [Contratando um domínio](iniciando-um-servidor/dominio/contratando-um-dominio.md)
+  * [Configurando no servidor](iniciando-um-servidor/dominio/configurando-no-servidor/README.md)
+    * [Cloudflare](iniciando-um-servidor/dominio/configurando-no-servidor/cloudflare/README.md)
+      * [Porta padrão](iniciando-um-servidor/dominio/configurando-no-servidor/cloudflare/porta-padrao.md)
+      * [Sem porta padrão](iniciando-um-servidor/dominio/configurando-no-servidor/cloudflare/sem-porta-padrao.md)
 
 ## Rodando um servidor
 
@@ -33,7 +40,6 @@
   * [Misc](rodando-um-servidor/guia-de-otimizacao/misc.md)
   * [Plugins](rodando-um-servidor/guia-de-otimizacao/plugins/README.md)
     * [Tradução do blog do me4502](rodando-um-servidor/guia-de-otimizacao/plugins/traducao-do-blog-do-me4502.md)
-* [Configurando domínio](rodando-um-servidor/configurando-dominio.md)
 * [Anti X-Ray](rodando-um-servidor/anti-x-ray/README.md)
   * [Configuração - engine-mode: 1](rodando-um-servidor/anti-x-ray/configuracao-engine-mode-1.md)
   * [Configuração - engine-mode: 2](rodando-um-servidor/anti-x-ray/configuracao-engine-mode-2.md)
