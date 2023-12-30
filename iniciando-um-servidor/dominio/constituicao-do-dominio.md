@@ -4,9 +4,9 @@ Primeiro precisamos entender como um domínio é formado, podemos resumir em 3 p
 
 ### **Subdomínio**
 
-O subdomínio é alterável a qualquer momento, para qualquer valor, totalmente de graça e imediato, é a parte do jogar / player / loja que normalmente é vista nos servidores (`jogar.seudomínio.com`)
+O subdomínio é alterável a qualquer momento, para qualquer valor, totalmente de graça e imediato, é a parte do **`jogar`** / **`play`** / **`loja`** que normalmente é vista nos servidores (**`jogar`**.seudomínio.com)
 
-Um subdomínio também é normalmente oferecido pelas hospedagens dentro do próprio painel de gerenciamento do seu servidor, que então, poderá usar como `seuservidor.hospedagem.com`
+Um subdomínio também é normalmente oferecido pelas hospedagens dentro do próprio painel de gerenciamento do seu servidor, que então, poderá usar como **`seuservidor`**`.hospedagem.com`
 
 ### Domínio
 

@@ -7,7 +7,7 @@ Para prosseguir, terá que ter em mente as seguintes coisas:
 * Se irá usar o seu domínio (seuservidor.com) ou subdomínio (jogar.seuservidor.com)
 * Qual o IP númerico do seu servidor
 * Quais portas o seu servidor está utilizando
-* Ter acesso total para alterar os registros do seu domínio
+* Ter acesso total para alterar os registros DNS do seu domínio
 
 Temos tutorais para as seguintes empresas:\
 Caso a sua não esteje listada, poderá seguir a lógica, os paineis normalmente são extremamente parecidos.
