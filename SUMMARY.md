@@ -28,6 +28,10 @@
 
 ## Rodando um servidor
 
+* [Guias básicos](rodando-um-servidor/guias-basicos/README.md)
+  * [Pegando IPV4 do servidor](rodando-um-servidor/guias-basicos/pegando-ipv4-do-servidor/README.md)
+    * [Pelo mcsrvstat](rodando-um-servidor/guias-basicos/pegando-ipv4-do-servidor/pelo-mcsrvstat.md)
+  * [Permitindo jogadores piratas](rodando-um-servidor/guias-basicos/permitindo-jogadores-piratas.md)
 * [Guia de otimização](rodando-um-servidor/guia-de-otimizacao/README.md)
   * [Software do servidor](rodando-um-servidor/guia-de-otimizacao/software-do-servidor/README.md)
     * [Como são os forks de diferentes softwares](rodando-um-servidor/guia-de-otimizacao/software-do-servidor/como-sao-os-forks-de-diferentes-softwares.md)
@@ -43,7 +47,3 @@
 * [Anti X-Ray](rodando-um-servidor/anti-x-ray/README.md)
   * [Configuração - engine-mode: 1](rodando-um-servidor/anti-x-ray/configuracao-engine-mode-1.md)
   * [Configuração - engine-mode: 2](rodando-um-servidor/anti-x-ray/configuracao-engine-mode-2.md)
-* [Guias básicos](rodando-um-servidor/guias-basicos/README.md)
-  * [Pegando IPV4 do servidor](rodando-um-servidor/guias-basicos/pegando-ipv4-do-servidor/README.md)
-    * [Pelo mcsrvstat](rodando-um-servidor/guias-basicos/pegando-ipv4-do-servidor/pelo-mcsrvstat.md)
-  * [Permitindo jogadores piratas](rodando-um-servidor/guias-basicos/permitindo-jogadores-piratas.md)
