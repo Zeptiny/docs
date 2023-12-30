@@ -7,7 +7,7 @@ Para essa configuração será necessário criar dois registros.
 Nas configurações DNS do seu domínio (Lado esquerdo), crie um novo registro com as seguintes informações, esse registro será usado apenas internamente, mas poderá ser usado caso tiver jogadores bedrock no seu servidor:
 
 * **Tipo**: A
-* **Nome:** @ se não quiser subdomínio, caso contrário, escreva o subdomínio (Ex: jogar) se tiver jogadores Bedrock no seu servidor, caso contrário, pode bater a cabeça no teclado que oq sair está valendo.
+* **Nome:** @ se não quiser subdomínio, se quiser um, escreva o subdomínio (Ex: jogar), isso se tiver jogadores Bedrock no seu servidor. Caso não tenha jogadores Bedrock, pode bater a cabeça no teclado que oq sair está valendo.
 * **IPV4:** Coloque o endereço IPV4 do servidor
 * **Proxy Status:** Deixe como DNS Only (Nuvem cinza)
 * **TTL:** Auto
