@@ -19,14 +19,12 @@ Para facilitar a navegação, você pode usar a função 'pesquisar' dentro do [
 
 Configurações básicas planejadas:
 
-* Pirata entrar em servidor
 * Servidor com mods
 * Servidor com plugins
 * Servidor híbrido
 * Como configurar:\
   \- Geyser\
   \- ViaVersion
-* Pegando IPV4 do servidor
 
 <!---->
 
