@@ -10,7 +10,7 @@ Nas configurações DNS do seu domínio (Lado esquerdo), crie um novo registro c
 * **Proxy Status:** Deixe como DNS Only (Nuvem cinza)
 * **TTL:** Auto
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption><p>Exemplo com a configuração citada a cima</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Exemplo com a configuração citada a cima</p></figcaption></figure>
 
 Leve em consideração que mudanças DNS podem demorar até 24 horas para fazerem efeito globalmente, entretanto, Cloudflare é conhecida por ser rápida para isso, e pode levar apenas alguns minutos para alguns provedores de internet atualizarem.\
 Para conferir se houve as mudanças corretas, pode utilizar sites como [dnschecker](https://dnschecker.org/) e [mcsrvstatus](https://mcsrvstat.us/).
