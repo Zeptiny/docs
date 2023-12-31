@@ -25,9 +25,9 @@ Para facilitar a navegação, você pode usar a função 'pesquisar' dentro do [
 
 <summary>Ideias e wikis planejadas</summary>
 
-* Iniciando servidor em Windows
+* Iniciando servidor em Windows (Sendo desenvolvido)
 * Iniciando servidor em Linux
-* Diferentes tipos de software de servidor
+* Diferentes tipos de software de servidor (Sendo desenvolvido)
 * Como proteger um servidor de Minecraft
 * Usando Wireguard para deixar servidor local público
 
