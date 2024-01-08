@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Bem Vindo!](README.md)
+  * [O que terá nessa documentação](readme/o-que-tera-nessa-documentacao.md)
 
 ## iniciando um servidor
 
@@ -25,6 +26,14 @@
     * [Cloudflare](iniciando-um-servidor/dominio/configurando-no-servidor/cloudflare/README.md)
       * [Porta padrão](iniciando-um-servidor/dominio/configurando-no-servidor/cloudflare/porta-padrao.md)
       * [Sem porta padrão](iniciando-um-servidor/dominio/configurando-no-servidor/cloudflare/sem-porta-padrao.md)
+* [Softwares de servidor](iniciando-um-servidor/softwares-de-servidor/README.md)
+  * [Vanilla](iniciando-um-servidor/softwares-de-servidor/vanilla.md)
+  * [Plugins](iniciando-um-servidor/softwares-de-servidor/plugins.md)
+  * [Mods](iniciando-um-servidor/softwares-de-servidor/mods.md)
+  * [Híbridos](iniciando-um-servidor/softwares-de-servidor/hibridos.md)
+  * [Proxy](iniciando-um-servidor/softwares-de-servidor/proxy.md)
+  * [Exóticos](iniciando-um-servidor/softwares-de-servidor/exoticos.md)
+  * [Softwares pagos](iniciando-um-servidor/softwares-de-servidor/softwares-pagos.md)
 
 ## Rodando um servidor
 

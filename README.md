@@ -14,34 +14,28 @@ layout:
 
 # Bem Vindo!
 
-### Introdução
-
-Bem-vindo a minha incrível documentação! Aqui você encontrá informações úteis sobre como não tacar fogo em seu servidor ou projeto!\
-Para facilitar a navegação, você pode usar a função 'pesquisar' dentro do [Gitbook](https://docs.artbenedetti.com/)! Basta clicar no botão no canto superior direito ou usar a tecla de atalho CTRL+K.\
+Bem-vindo a minha incrível documentação! Aqui você irá encontrar informações úteis sobre como não tacar fogo em seu servidor ou projeto! Assim como várias dicas e guias úteis para a construção do seu projeto!\
+Para facilitar a navegação, você pode usar a função 'pesquisar' dentro do [Gitbook](https://docs.artbenedetti.com/)! Basta clicar no botão no canto superior direito ou usar a função de atalho `CTRL+K`.\
 \
-**A documentação sempre está em desenvolvimento, caso queira constribuir, abra um pull request no** [**repositório do Github**](https://github.com/Zeptiny/docs)**.**
+**A documentação sempre está em desenvolvimento, caso queira contribuir, abra um pull request no** [**repositório do Github**](https://github.com/Zeptiny/docs)**.**
 
-<details>
 
-<summary>Ideias e wikis planejadas</summary>
+
+**Guias e Wikis planejadas:**
 
 * Iniciando servidor em Windows (Sendo desenvolvido)
-* Iniciando servidor em Linux
-* Diferentes tipos de software de servidor (Sendo desenvolvido)
+* Iniciando servidor em Linux (Básico sem painel)
 * Como proteger um servidor de Minecraft
-* Usando Wireguard para deixar servidor local público
+* Deixando servidor local público
+  * Com Wireguard (Avançado)
+  * Com Ngrok
+  * Com Playit.gg
 
-Configurações básicas planejadas:
+**Atualizações Pendentes:**
 
-* Servidor com mods
-* Servidor com plugins
-* Servidor híbrido
-* Como configurar:\
-  \- Geyser\
-  \- ViaVersion
+* Guia de Otimização
+* Anti X-Ray
 
-<!---->
-
-* Como fazer um miojo com ovo delicioso
-
-</details>
+{% content-ref url="readme/o-que-tera-nessa-documentacao.md" %}
+[o-que-tera-nessa-documentacao.md](readme/o-que-tera-nessa-documentacao.md)
+{% endcontent-ref %}
