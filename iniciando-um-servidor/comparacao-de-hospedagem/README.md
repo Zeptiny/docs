@@ -6,6 +6,8 @@ Este guia foi feito se baseando nos requisitos, informações e recomendações 
 
 Nunca haverá um guia que lhe dará resultados perfeitos. Este guia visa apenas pegar os pontos e recomendações e agregar em uma lista, tendo as explicações da relevância de cada um, não conterá avaliações da hospedagem e nem da experiência de cada uma. Se você acha que encontrou informações incorretas neste guia, não hesite em entrar em contato.
 
+Esse guia analisa os pontos e observações disponíveis publicamente no website da respectiva hospedagem, caso alguma informação precisou ser pega em particular com o suporte estará citado.
+
 {% content-ref url="pontos-considerados.md" %}
 [pontos-considerados.md](pontos-considerados.md)
 {% endcontent-ref %}
