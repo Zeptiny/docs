@@ -36,9 +36,7 @@
   * [Softwares pagos](iniciando-um-servidor/softwares-de-servidor/softwares-pagos.md)
 * [Comparação de hospedagem - EM TESTES](iniciando-um-servidor/comparacao-de-hospedagem/README.md)
   * [Pontos considerados](iniciando-um-servidor/comparacao-de-hospedagem/pontos-considerados.md)
-  * [Catálogo de hospedagem](iniciando-um-servidor/comparacao-de-hospedagem/catalogo-de-hospedagem/README.md)
-    * [ElgaeHost.com.br](iniciando-um-servidor/comparacao-de-hospedagem/catalogo-de-hospedagem/elgaehost.com.br.md)
-    * [MagnoHost.com.br](iniciando-um-servidor/comparacao-de-hospedagem/catalogo-de-hospedagem/magnohost.com.br.md)
+  * [Catálogo de hospedagem](iniciando-um-servidor/comparacao-de-hospedagem/catalogo-de-hospedagem.md)
 
 ## Rodando um servidor
 
