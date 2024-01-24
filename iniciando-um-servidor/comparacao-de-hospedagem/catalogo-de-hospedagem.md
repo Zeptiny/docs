@@ -22,7 +22,7 @@ As informações aqui presentes foram as encontradas e publicamente disponíveis
 
 ## <mark style="color:red;">Importante</mark>
 
-Em algumas avaliações foi entrado em contato com o suporte, isso será feito com todas as hospedagens no qual não dão informações suficientes em seus websites para a avaliação completa, estará descrito caso alguma informação foi apenas possível conseguir pelo suporte estará claramente descrito, e com uma lista na página da hospedagem desta documentação com todos os pontos que foram apenas pegos pelo suporte.
+Em algumas avaliações foi entrado em contato com o suporte, isso será feito com todas as hospedagens no qual não dão informações suficientes em seus websites para a avaliação completa, estará claramente descrito caso alguma informação foi apenas possível conseguir pelo suporte, e com uma lista na página da hospedagem desta documentação com todos os pontos que foram apenas pegos pelo suporte.
 
 ## Utilização de cores na aba de informações
 
