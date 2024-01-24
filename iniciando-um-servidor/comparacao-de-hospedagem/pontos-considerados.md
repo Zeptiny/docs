@@ -8,18 +8,31 @@ Caso qualquer ponto esteja incorreto favor não hesite em entrar em contato, cas
 
 ## Localização
 
-Aqui será considerado a localização em que a hospedagem atua, sendo considerado os países (Brasil, Estados Unidos, Canadá, etc.)
+Aqui será considerado a localização em que a hospedagem atua, sendo considerado os países (Brasil, Estados Unidos, Canadá, etc.), juntamente com qual cidade está localizado (São Paulo, Miami, Montreal, etc.)\
+Não existe ponto negativo ou positivo nessa classificação, apenas será considerada incompleta se não especificar a cidade.
+
+## Legalidade
+
+Se a emprese está registrada corretamente com um CNPJ e com o CNAE de atuação correto (CNAE 6311-9/00).\
+[Mais informações nessa página](../escolhendo-uma-hospedagem/legais.md).
+
+## Avaliação
+
+Caso a empresa tenha algum local público para avaliação (Discords não são considerados), como, por exemplo, TrustPilot ou ReclameAqui, e que ele esteja citado no website e verificado pela empresa.
+
+## Uptime e SLA
+
+Quanto tempo num ciclo de pagamento o servidor deverá estar online, normalmente sendo uma média de 99%+ e quanto será recompensado, descrito dentro dos termos de serviço.
 
 ## Hardware
 
 Será considerado o hardware em que o servidor estará hospedado, sendo os seguintes pontos:
 
-* Processador: Qual a performance do processador considerando o single core em testes sintéticos (Passmark), estará sendo considerado a performance máximos que o processador conseguirá entregar em single core, sem ser a performance que poderá estar sendo recebida dentro da hospedagem.
-* Disco: Estará sendo considerado que o disco é SSD ou HDD, mesmo sendo incomum encontrar hospedagens com HDD, ainda é possível, e o SSD será considerado SATA ou NVMe, isso se as informações estiverem disponíveis, caso contrário, irá cair na falta de transparência.
+* Processador: Qual a performance do processador considerando o single core em testes sintéticos (Passmark), esse é o número que está depois do processador na lista, procuramos uma performance mínima de 2500 pontos em single core, estará sendo considerado a performance máximos que o processador conseguirá entregar em single core, sem ser a performance que poderá estar sendo recebida dentro da hospedagem.
 
 ## Proteção DDoS
 
-Qual proteção está sendo relatada, apenas será considerada caso o provedor esteja publicamente disponível (Ex, Path.net, Cloudflare Magic Transit, TCPShield)
+Qual proteção está sendo relatada, apenas será considerada caso o provedor esteja publicamente disponível (Ex, Path.net, Cloudflare Magic Transit, TCPShield). Apenas será considerada totalmente caso houver o provedor citado e que esteja consistente a informação sobre.
 
 ## Backups off-site
 
@@ -28,9 +41,10 @@ Segurança em casos de falha na máquina ou falha no datacenter por completo.
 
 Caso não esteja citado de nenhum modo, será considerado que o backup é on-site (Na mesma máquina).
 
-## Compartilhamento
+## Compartilhamento de recursos
 
-Será considerado se os recursos comprados serão totalmente dedicados ou se serão compartilhados com outros clientes, podendo cair na consideração de overselling.
+Será considerado se os recursos comprados serão totalmente dedicados ou se serão compartilhados com outros clientes, podendo cair na consideração de overselling.\
+Caso tenha algum plano com recursos dedicados citados, já cumprirá essa observação, nem todos os planos precisam bater esse requisito.
 
 ## Práticas insustentáveis
 
@@ -48,26 +62,20 @@ Será considerado o quão transparente a empresa é para o público:
 * Página de recursos: Página com utilização de todos os recursos de todos os nodes e serviços oferecidos, normalmente com a página de uptime.
 * Transparência de produtos: Transparência sobre os recursos que terá em cada produto e serviço oferecido.
 
-## Uptime e SLA
-
-Quanto tempo num ciclo de pagamento o servidor deverá estar online, normalmente sendo uma média de 99%+ e quanto será recompensado, descrito dentro dos termos de serviço.
-
-## Legal
-
-Se a emprese está registrada corretamente com um CNPJ e com o CNAE de atuação correto (CNAE 6311-9/00)
-
 ## Recursos adicionais
 
-Recursos adicionais que poderão se úteis para muitos incluídos no painel da hospedagem, como:
+Recursos adicionais que poderão se úteis para muitos incluídos no painel, ou não, da hospedagem, como:
 
 * Instalador de versões
 * Instalador de modpacks
 * Instalador de plugins
 * Server Splitter
 
-## Avaliação
+Recursos considerados comuns não serão considerados, como, por exemplo:
 
-Caso a empresa tenha algum local público para avaliação (Discords não são considerados), como, por exemplo, TrustPilot ou ReclameAqui, e que ele esteja citado no website.
+* Acesso FTP
+* Banco de dados MySQL
+* Gerenciamento de sub usuários
 
 ## Template para comparação:
 
