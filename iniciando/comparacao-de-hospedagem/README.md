@@ -14,8 +14,8 @@ Esse guia analisa os pontos e observações disponíveis publicamente no website
 
 ### Todas as hospedagens analisadas até o momento estão nessa página:
 
-{% content-ref url="catalogo-de-hospedagem.md" %}
-[catalogo-de-hospedagem.md](catalogo-de-hospedagem.md)
+{% content-ref url="catalogo/" %}
+[catalogo](catalogo/)
 {% endcontent-ref %}
 
 Estão organizadas de forma decrescente, começando pelas hospedagens que mais cumprem os pontos observados nessa documentação.

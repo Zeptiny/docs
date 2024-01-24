@@ -35,8 +35,8 @@ Os softwares de servidores podem ser definidos em 5 categorias normalmente, entr
 [vanilla.md](vanilla.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../rodando-um-servidor/guia-de-otimizacao/plugins/" %}
-[plugins](../../rodando-um-servidor/guia-de-otimizacao/plugins/)
+{% content-ref url="../../rodando/guia-de-otimizacao/plugins/" %}
+[plugins](../../rodando/guia-de-otimizacao/plugins/)
 {% endcontent-ref %}
 
 {% content-ref url="mods.md" %}
