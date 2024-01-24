@@ -36,7 +36,8 @@
   * [Softwares pagos](iniciando-um-servidor/softwares-de-servidor/softwares-pagos.md)
 * [Comparação de hospedagem - EM TESTES](iniciando-um-servidor/comparacao-de-hospedagem/README.md)
   * [Pontos considerados](iniciando-um-servidor/comparacao-de-hospedagem/pontos-considerados.md)
-  * [Catálogo de hospedagem](iniciando-um-servidor/comparacao-de-hospedagem/catalogo-de-hospedagem.md)
+  * [Catálogo de hospedagem](iniciando-um-servidor/comparacao-de-hospedagem/catalogo-de-hospedagem/README.md)
+    * [BedHosting.com.br](iniciando-um-servidor/comparacao-de-hospedagem/catalogo-de-hospedagem/bedhosting.com.br.md)
 
 ## Rodando um servidor
 
