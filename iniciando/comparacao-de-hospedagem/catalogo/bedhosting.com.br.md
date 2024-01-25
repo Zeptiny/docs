@@ -1,5 +1,7 @@
 # BedHosting.com.br
 
+A BedHosting ofereceu no dia 24/01/2024 uma hospedagem de testes para pegar essas informações, qualquer e avaliação aqui não está nem a favor ou contra a Bedhosting devido a este fato.
+
 ## Painel da empresa
 
 <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Painel da BedHosting, plano Ultra de Minecraft BR</p></figcaption></figure>
