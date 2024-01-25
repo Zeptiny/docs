@@ -16,6 +16,13 @@ Não existe ponto negativo ou positivo nessa classificação, apenas será consi
 Se a emprese está registrada corretamente com um CNPJ e com o CNAE de atuação correto (CNAE 6311-9/00).\
 [Mais informações nessa página](../escolhendo-uma-hospedagem/legais.md).
 
+## Sistema Financeiro
+
+Muitas empresas utilizam algo [WHMCS](https://www.whmcs.com/), um sistema para gerenciar os planos e alocação dos serviços, assim como tem integrações com os métodos de pagamento (Cartão de crédito, Boleto, Paypal, Mercado Pago, etc.).\
+É [possível verificar se a empresa está crackeando (Também chamado de "Nulled") esse software](https://www.whmcs.com/members/verifydomain.php/verifydomain.php), que, se caso estiver, poderá significar uma falha de segurança grave, com informações sendo coletadas ilegalmente e com patches de segurança podendo não ser aplicados
+
+Claro, WHMCS não é o único que existe, pode ser Hostbill, PteroBill ou até um sistema próprio.
+
 ## Avaliação
 
 Caso a empresa tenha algum local público para avaliação (Discords não são considerados), como, por exemplo, TrustPilot ou ReclameAqui, e que ele esteja citado no website e verificado pela empresa.
@@ -79,5 +86,5 @@ Recursos considerados comuns não serão considerados, como, por exemplo:
 
 ## Template para comparação:
 
-<table><thead><tr><th width="208">Ponto observado</th><th width="240">Informações</th><th>Anotações</th></tr></thead><tbody><tr><td>Localização</td><td>País - Cidade</td><td></td></tr><tr><td>Legalidade</td><td>CNPJ/MEI</td><td></td></tr><tr><td>Avaliação</td><td>TrustPilot/ReclameAqui</td><td></td></tr><tr><td>Uptime SLA</td><td>SLA - Compensação</td><td></td></tr><tr><td>Hardware</td><td>CPU Modelo</td><td></td></tr><tr><td>Proteção DDoS</td><td>Capacidade</td><td>Provido por X</td></tr><tr><td>Backups on/off-site</td><td>on-site/off-site</td><td></td></tr><tr><td>Compartilhamento de recursos</td><td>Compartilhados/Dedicados</td><td></td></tr><tr><td>Práticas insustentáveis</td><td>- Planos vitalícios<br>- Planos ilimitados<br>- Fração inconsistente</td><td></td></tr><tr><td>Transparência</td><td>- Página de uptime<br>- Página de recursos<br>- Produtos/serviços</td><td></td></tr><tr><td>Adicionais</td><td>- Instalador de versões<br>- Instalador de modpacks<br>- Instalador de mods<br>- Instalador de plugins<br>- Server Splitter</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="208">Ponto observado</th><th width="240">Informações</th><th>Anotações</th></tr></thead><tbody><tr><td>Localização</td><td>País - Cidade</td><td></td></tr><tr><td>Legalidade</td><td>CNPJ/MEI</td><td></td></tr><tr><td>Sistema Financeiro</td><td>WHMCS Crackeado/HostBill/Próprio</td><td></td></tr><tr><td>Avaliação</td><td>TrustPilot/ReclameAqui</td><td></td></tr><tr><td>Uptime SLA</td><td>SLA - Compensação</td><td></td></tr><tr><td>Hardware</td><td>CPU Modelo</td><td></td></tr><tr><td>Proteção DDoS</td><td>Capacidade</td><td>Provido por X</td></tr><tr><td>Backups on/off-site</td><td>on-site/off-site</td><td></td></tr><tr><td>Compartilhamento de recursos</td><td>Compartilhados/Dedicados</td><td></td></tr><tr><td>Práticas insustentáveis</td><td>- Planos vitalícios<br>- Planos ilimitados<br>- Fração inconsistente</td><td></td></tr><tr><td>Transparência</td><td>- Página de uptime<br>- Página de recursos<br>- Produtos/serviços</td><td></td></tr><tr><td>Adicionais</td><td>- Instalador de versões<br>- Instalador de modpacks<br>- Instalador de mods<br>- Instalador de plugins<br>- Server Splitter</td><td></td></tr></tbody></table>
 
