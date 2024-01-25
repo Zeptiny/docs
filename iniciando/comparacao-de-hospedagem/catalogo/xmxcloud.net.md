@@ -1,6 +1,6 @@
 # XMXCloud.net
 
-A XMXCloud ofereceu no dia 24/01/2024 uma hospedagem de testes de 48 horas para pegar essas informações, qualquer e avaliação aqui não está nem a favor ou contra a Bedhosting devido a este fato.
+A XMXCloud ofereceu no dia 24/01/2024 uma hospedagem de testes de 48 horas para pegar essas informações, qualquer e avaliação aqui não está nem a favor ou contra a XMXCloud devido a este fato.
 
 ## Painel da Empresa
 
@@ -18,7 +18,7 @@ A XMXCloud ofereceu no dia 24/01/2024 uma hospedagem de testes de 48 horas para 
 
 ### Server Splitter
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Aba do adicional de server splitterda XMXCloud</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Aba do adicional de Server Splitter da XMXCloud</p></figcaption></figure>
 
 ## Informações apenas conseguidas pelo painel
 
