@@ -38,6 +38,7 @@
   * [Pontos considerados](iniciando/comparacao-de-hospedagem/pontos-considerados.md)
   * [Catálogo de hospedagem](iniciando/comparacao-de-hospedagem/catalogo/README.md)
     * [BedHosting.com.br](iniciando/comparacao-de-hospedagem/catalogo/bedhosting.com.br.md)
+    * [XMXCloud.net](iniciando/comparacao-de-hospedagem/catalogo/xmxcloud.net.md)
 
 ## Rodando um servidor <a href="#rodando" id="rodando"></a>
 
