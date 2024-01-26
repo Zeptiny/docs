@@ -37,6 +37,7 @@
 * [Comparação de hospedagem - EM TESTES](iniciando/comparacao-de-hospedagem/README.md)
   * [Pontos considerados](iniciando/comparacao-de-hospedagem/pontos-considerados.md)
   * [Catálogo de hospedagem](iniciando/comparacao-de-hospedagem/catalogo/README.md)
+    * [Avaliações desatualizadas](iniciando/comparacao-de-hospedagem/catalogo/catalogo.md)
     * [Arquivamento](iniciando/comparacao-de-hospedagem/catalogo/arquivamento.md)
 
 ## Rodando um servidor <a href="#rodando" id="rodando"></a>
