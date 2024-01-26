@@ -122,3 +122,8 @@ Por exemplo, uma empresa conseguiu 160 pontos com o máximo de 200 pontos:
 (`160*10)/200=Nota` -> `1600/200=Nota` -> **8**
 
 A pontuação será arredondada para a primeira casa decimal caso seja irracional, por exemplo, 8.45 se tornará 8.4
+
+### Informações não presentes publicamente
+
+Caso alguma informação que esteja sendo avaliada não esteja presente publicamente (Website da empresa ou termos de serviço/privacidade) não será considerada na pontuação, mesmo que tenha sido encontrada mediante a contato com o suporte.\
+Por que isso? Pois visamos uma comunidade mais transparente, com empresas relatando exatamente o que receberemos pelo nosso dinheiro, sem ter que comprar algo para saber o que receberá, desde o processador, o limite dos recursos, a proteção e a localização.
