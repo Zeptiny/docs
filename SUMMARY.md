@@ -37,9 +37,10 @@
 * [Comparação de hospedagem - EM TESTES](iniciando/comparacao-de-hospedagem/README.md)
   * [Pontos considerados](iniciando/comparacao-de-hospedagem/pontos-considerados.md)
   * [Catálogo de hospedagem](iniciando/comparacao-de-hospedagem/catalogo/README.md)
-    * [MagnoHost.com.br](iniciando/comparacao-de-hospedagem/catalogo/magnohost.com.br.md)
-    * [BedHosting.com.br](iniciando/comparacao-de-hospedagem/catalogo/bedhosting.com.br.md)
-    * [XMXCloud.net](iniciando/comparacao-de-hospedagem/catalogo/xmxcloud.net.md)
+    * [Específicos](iniciando/comparacao-de-hospedagem/catalogo/especificos/README.md)
+      * [MagnoHost.com.br](iniciando/comparacao-de-hospedagem/catalogo/especificos/magnohost.com.br.md)
+      * [BedHosting.com.br](iniciando/comparacao-de-hospedagem/catalogo/especificos/bedhosting.com.br.md)
+      * [XMXCloud.net](iniciando/comparacao-de-hospedagem/catalogo/especificos/xmxcloud.net.md)
     * [Arquivamento](iniciando/comparacao-de-hospedagem/catalogo/arquivamento.md)
 
 ## Rodando um servidor <a href="#rodando" id="rodando"></a>

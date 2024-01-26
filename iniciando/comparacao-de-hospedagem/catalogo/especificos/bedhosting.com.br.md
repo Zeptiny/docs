@@ -1,16 +1,30 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
+
 # BedHosting.com.br
 
 A BedHosting ofereceu no dia 24/01/2024 uma hospedagem de testes para pegar essas informações, qualquer e avaliação aqui não está nem a favor ou contra a Bedhosting devido a este fato.
 
 ## Painel da empresa
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Painel da BedHosting, plano Ultra de Minecraft BR</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Painel da BedHosting, plano Ultra de Minecraft BR</p></figcaption></figure>
 
 ## Adicionais
 
 ### Subdomínios
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Aba de subdomínio da BedHosting</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Aba de subdomínio da BedHosting</p></figcaption></figure>
 
 ### Informações conseguidas pelo suporte
 
@@ -22,4 +36,10 @@ BedHosting tem falta de transparência em seu website e página de produtos sobr
 * Proteção DDoS: Só foi possível descobrir que a proteção DDoS é da Cloudflare Magic Transit após entrar em contato com o suporte.
 * Compensação SLA: Só foi possível descobrir que era de 2 vezes após entrar em contato com o Suporte.
 * Backup on-site e off-site: Só foi possível descobrir pelo suporte que são feitos backups periódicos das máquinas de maneira off-site, entretanto, os backups feitos pelos clientes ainda são on-site:
-  * > O backup feito diretamente pelo site de gerenciamento (Pterodactyl) é on-site ( no mesmo datacenter ) todavia efetuamos backups diarios (todo dia as 09:00AM) de todas os nodes em um outro datacenter destinado apenas para backup (off-site)
+  *   > O backup feito diretamente pelo site de gerenciamento (Pterodactyl) é on-site ( no mesmo datacenter ) todavia efetuamos backups diarios (todo dia as 09:00AM) de todas os nodes em um outro datacenter destinado apenas para backup (off-site)
+
+
+
+{% content-ref url="../" %}
+[..](../)
+{% endcontent-ref %}
