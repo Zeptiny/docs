@@ -22,7 +22,7 @@ A ordem no qual as hospedagens estão organizadas são as que mais batem com os 
 
 Em algumas avaliações foi entrado em contato com o suporte, isso será feito com todas as hospedagens no qual não dão informações suficientes em seus websites para a avaliação completa, estará claramente descrito caso alguma informação foi apenas possível conseguir pelo suporte, e com uma lista na página da hospedagem desta documentação com todos os pontos que foram apenas pegos pelo suporte.\
 Caso alguma informação apenas foi possível de ser pega entrando em contato com o suporte, não irá contar na pontuação da hospedagem, e consequentemente em seu ranking, entretanto, ainda estará disponível nessa comparação. O objetivo dessa documentação é trazer maior transparência as hospedagens de Minecraft assim como compartilhar informações básicas sobre elas.\
-Algumas hospedagens estão com avaliações feitos de maneiras antigas, estamos ativamente re-analisando todas para ficarem com o mesmo método.
+Algumas hospedagens estão com avaliações feitas de maneiras antigas, estamos ativamente re-analisando todas para ficarem com o mesmo método.
 
 ## Utilização de cores na aba de informações
 
