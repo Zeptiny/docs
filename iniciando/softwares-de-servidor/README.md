@@ -12,7 +12,7 @@ Muitos softwares de servidores são criados a partir de outros, e contém todas 
 
 Podemos colocar em um simples gráfico os softwares mais comuns:
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Gráfico dos softwares de servidores mais comuns de luminescent.dev, versão básica</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Gráfico dos softwares de servidores mais comuns de luminescent.dev, versão básica</p></figcaption></figure>
 
 Nesse gráfico percebemos que o Purpur se baseia no Paper (Fork) com atualizações do Pufferfish (Patches). O Paper se baseia no Spigot que se baseia no CraftBukkit, que finalmente se baseia no software base do Minecraft provido pela Mojang.
 
