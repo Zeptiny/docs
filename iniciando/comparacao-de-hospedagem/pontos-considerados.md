@@ -64,19 +64,24 @@ Práticas consideradas insustentáveis são as práticas que não funcionarão a
 
 * Planos vitalícios: Planos que só se paga uma vez e nunca mais.
 * Planos ilimitados: Planos que relatam qualquer recurso como ilimitado
-* Fração de recursos e valores inconsistentes: Caso a fração não seja linear dos recursos e valores em diferentes planos, o que poderá arrecadar em overselling ou recursos não utilizados da máquina
+* Fração de recursos e valores inconsistentes: Caso a fração não seja linear dos recursos e valores em diferentes planos, o que poderá arrecadar em overselling ou recursos não utilizados da máquina, exemplo:
+  * Um plano de 4GB de ram ter 200% de CPU e 8GB de disco, enquanto um plano de 8GB de ram ter 500% de CPU e 24GB de disco. \
+    O plano de 8GB de ram, nesse caso, deveria ter 400% de CPU e 16GB de disco.
 
 ### Transparência
 
 Será considerado o quão transparente a empresa é para o público:
 
 * Página de uptime: Página publicamente com histórico de uptime de todos os nodes e serviços oferecidos.
-* Página de recursos: Página com utilização de todos os recursos de todos os nodes e serviços oferecidos, normalmente com a página de uptime.
-* Transparência de produtos: Transparência sobre os recursos que terá em cada produto e serviço oferecido.
+* Página de recursos: Página com utilização de todos os recursos de todos os nodes e serviços oferecidos, normalmente com a página de uptime junto, alguns exemplos são:
+  * [status.magnohost.com.br](https://status.magnohost.com.br)
+  * [status.bloom.host](https://status.bloom.host)
+  * [status.pebblehost.com](https://status.pebblehost.com)
+* ~~Transparência de produtos: Transparência sobre os recursos que terá em cada produto e serviço oferecido.~~ - Essa avaliação estará sendo removida e substituída pela "Informações não presente publicamente", descrita mais a baixo.
 
 ### Recursos adicionais
 
-Recursos adicionais que poderão se úteis para muitos incluídos no painel, ou não, da hospedagem, como:
+Recursos adicionais que poderão se úteis para muitos incluídos no painel, ou não, da hospedagem, alguns exemplos:
 
 * Instalador de versões
 * Instalador de modpacks
@@ -85,13 +90,13 @@ Recursos adicionais que poderão se úteis para muitos incluídos no painel, ou 
 
 Recursos considerados comuns não serão considerados, como, por exemplo:
 
-* Acesso FTP
+* Acesso SFTP
 * Banco de dados MySQL
 * Gerenciamento de sub usuários
 
 ## Template para comparação:
 
-<table><thead><tr><th width="192">Ponto observado</th><th width="240">Informações</th><th width="218">Anotações</th><th>Pontos</th></tr></thead><tbody><tr><td>Localização</td><td>País - Cidade</td><td></td><td></td></tr><tr><td>Legalidade</td><td>CNPJ/MEI</td><td></td><td></td></tr><tr><td>Sistema Financeiro</td><td>WHMCS/HostBill/Próprio</td><td></td><td></td></tr><tr><td>Avaliação</td><td>TrustPilot/ReclameAqui</td><td></td><td></td></tr><tr><td>Uptime SLA</td><td>SLA - Compensação</td><td></td><td></td></tr><tr><td>Hardware</td><td>CPU Modelo</td><td></td><td></td></tr><tr><td>Proteção DDoS</td><td>Capacidade</td><td>Provido por X</td><td></td></tr><tr><td>Backups on/off-site</td><td>on-site/off-site</td><td></td><td></td></tr><tr><td>Compartilhamento de recursos</td><td>Compartilhados/Dedicados</td><td></td><td></td></tr><tr><td>Práticas insustentáveis</td><td>- Planos vitalícios<br>- Planos ilimitados<br>- Fração inconsistente</td><td></td><td></td></tr><tr><td>Transparência</td><td>- Página de uptime<br>- Página de recursos<br>- Produtos/serviços</td><td></td><td></td></tr><tr><td>Adicionais</td><td>- Instalador de versões<br>- Instalador de modpacks<br>- Instalador de mods<br>- Instalador de plugins<br>- Server Splitter</td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="192">Ponto observado</th><th width="240">Informações</th><th width="218">Anotações</th><th>Pontos</th></tr></thead><tbody><tr><td>Localização</td><td>País - Cidade</td><td></td><td></td></tr><tr><td>Legalidade</td><td>CNPJ/MEI</td><td></td><td></td></tr><tr><td>Sistema Financeiro</td><td>WHMCS/HostBill/Próprio</td><td></td><td></td></tr><tr><td>Avaliação</td><td>TrustPilot/ReclameAqui</td><td></td><td></td></tr><tr><td>Uptime SLA</td><td>SLA - Compensação</td><td></td><td></td></tr><tr><td>Hardware</td><td>CPU Modelo</td><td></td><td></td></tr><tr><td>Proteção DDoS</td><td>Capacidade</td><td>Provido por X</td><td></td></tr><tr><td>Backups on/off-site</td><td>on-site/off-site</td><td></td><td></td></tr><tr><td>Compartilhamento de recursos</td><td>Compartilhados/Dedicados</td><td></td><td></td></tr><tr><td>Práticas insustentáveis</td><td>- Planos vitalícios<br>- Planos ilimitados<br>- Fração inconsistente</td><td></td><td></td></tr><tr><td>Transparência</td><td>- Página de uptime<br>- Página de recursos</td><td></td><td></td></tr><tr><td>Adicionais</td><td>- Instalador de versões<br>- Instalador de modpacks<br>- Instalador de mods<br>- Instalador de plugins<br>- Server Splitter</td><td></td><td></td></tr></tbody></table>
 
 ## Sistema de pontuação
 
@@ -105,9 +110,9 @@ Existem 3 classificações possíveis, porém, nem todas as observações podem 
 
 E os pontos referentes a cada observação:
 
-<table><thead><tr><th width="208">Ponto observado</th><th width="240">Informações</th><th>Anotações</th></tr></thead><tbody><tr><td>Localização</td><td>País - Cidade</td><td>Não vale pontuação</td></tr><tr><td>Legalidade</td><td>CNPJ/MEI</td><td><mark style="color:red;">Sem Registro</mark> = 0 pontos<br><mark style="color:orange;">MEI</mark> = 15 pontos<br><mark style="color:green;">CNPJ</mark> = 30 pontos</td></tr><tr><td>Sistema Financeiro</td><td>WHMCS/HostBill/Próprio</td><td><mark style="color:red;">Crackeado/Não tem</mark> = 0 pontos<br><mark style="color:green;">Autorizado/Próprio</mark> = 20 pontos</td></tr><tr><td>Avaliação</td><td>TrustPilot/ReclameAqui</td><td><mark style="color:red;">Não existente/Não citado</mark> = 0 pontos<br><mark style="color:orange;">Citado mas não verificado</mark> = 5 pontos<br><mark style="color:green;">Citado e verificado</mark> = 10 pontos<br><br>O limite para essa observação é 10 pontos, e apenas um website de avaliação precisa existir.</td></tr><tr><td>Uptime SLA</td><td>SLA - Compensação</td><td><mark style="color:red;">Não citado o SLA e/ou compensação</mark> = 0 pontos<br><mark style="color:orange;">SLA e compensação citada porém é abaixo de 99.5%</mark> = 5 pontos<br><mark style="color:green;">SLA e compensação citada e acima ou igual a 99.5%</mark> = 10 pontos</td></tr><tr><td>Hardware</td><td>CPU Modelo</td><td><mark style="color:red;">Processador a baixo de 2500 pontos no single core (Passmark) ou uso de HDD</mark> = 0 pontos<br><mark style="color:green;">Processador a cima de 2500 pontos no single core (Passmark)</mark> = 25 pontos<br><br>Caso tenha mais de um processador será somado a quantidade de pontos de todos os processador e dividido pela quantidade de processadores.</td></tr><tr><td>Proteção DDoS</td><td>Capacidade</td><td><mark style="color:red;">Citado/Não existente</mark> = 0 pontos<br><mark style="color:green;">Citado com provedor</mark> = 15 pontos</td></tr><tr><td>Backups on/off-site</td><td>on-site/off-site</td><td><mark style="color:red;">On-site</mark> = 0 pontos<br><mark style="color:green;">Off-site</mark> = 10 pontos</td></tr><tr><td>Compartilhamento de recursos</td><td>Compartilhados/Dedicados</td><td><mark style="color:red;">Compartilhados</mark> = 0 pontos<br><mark style="color:green;">Dedicados</mark> = 10 pontos<br><br>Apenas um plano da hospedagem precisa ser dedicado para bater esse requisito, não todos.</td></tr><tr><td>Práticas insustentáveis</td><td>- Planos vitalícios<br>- Planos ilimitados<br>- Fração inconsistente</td><td>+10 pontos <mark style="color:green;">por cada prática não realizada</mark> (30 pontos totais)</td></tr><tr><td>Transparência</td><td>- Página de uptime<br>- Página de recursos<br>- Produtos/serviços</td><td>- <mark style="color:green;">Página de uptime</mark> = 5 pontos<br>- <mark style="color:green;">Página de recursos</mark> = 10 pontos<br>- <mark style="color:green;">Produtos/serviços</mark> = 10 pontos</td></tr><tr><td>Adicionais</td><td>- Instalador de versões<br>- Instalador de modpacks<br>- Instalador de mods<br>- Instalador de plugins<br>- Server Splitter</td><td>- <mark style="color:green;">Server Splitter</mark> = 3 pontos<br>- <mark style="color:green;">Loja Inclusa</mark> = 3 pontos<br>- <mark style="color:green;">Backup de databases</mark> = 2 pontos<br>- <mark style="color:green;">Instalador de modpacks</mark> = 2 pontos<br>- <mark style="color:green;">Outros</mark> = 1 ponto<br><br>Caso a loja esteje inclusa, ela deverá ser de graça durante todo o período em que se pagar a hospedagem, além de que deve estar citada qual loja seria.<br><br>Essa observação tem um limite de 15 pontos.</td></tr></tbody></table>
+<table><thead><tr><th width="208">Ponto observado</th><th width="240">Informações</th><th>Anotações</th></tr></thead><tbody><tr><td>Localização</td><td>País - Cidade</td><td>Não vale pontuação</td></tr><tr><td>Legalidade</td><td>CNPJ/MEI</td><td><mark style="color:red;">Sem Registro</mark> = 0 pontos<br><mark style="color:orange;">MEI</mark> = 15 pontos<br><mark style="color:green;">CNPJ</mark> = 30 pontos</td></tr><tr><td>Sistema Financeiro</td><td>WHMCS/HostBill/Próprio</td><td><mark style="color:red;">Crackeado/Não tem</mark> = 0 pontos<br><mark style="color:green;">Autorizado/Próprio</mark> = 20 pontos</td></tr><tr><td>Avaliação</td><td>TrustPilot/ReclameAqui</td><td><mark style="color:red;">Não existente/Não citado</mark> = 0 pontos<br><mark style="color:orange;">Citado mas não verificado</mark> = 5 pontos<br><mark style="color:green;">Citado e verificado</mark> = 10 pontos<br><br>O limite para essa observação é 10 pontos, e apenas um website de avaliação precisa existir.</td></tr><tr><td>Uptime SLA</td><td>SLA - Compensação</td><td><mark style="color:red;">Não citado o SLA e/ou compensação</mark> = 0 pontos<br><mark style="color:orange;">SLA e compensação citada porém é abaixo de 99.5%</mark> = 5 pontos<br><mark style="color:green;">SLA e compensação citada e acima ou igual a 99.5%</mark> = 10 pontos</td></tr><tr><td>Hardware</td><td>CPU Modelo</td><td><mark style="color:red;">Processador a baixo de 2500 pontos no single core (Passmark) ou uso de HDD</mark> = 0 pontos<br><mark style="color:green;">Processador a cima de 2500 pontos no single core (Passmark)</mark> = 25 pontos<br><br>Caso tenha mais de um processador será somado a quantidade de pontos de todos os processador e dividido pela quantidade de processadores.</td></tr><tr><td>Proteção DDoS</td><td>Capacidade</td><td><mark style="color:red;">Citado/Não existente</mark> = 0 pontos<br><mark style="color:green;">Citado com provedor</mark> = 15 pontos</td></tr><tr><td>Backups on/off-site</td><td>on-site/off-site</td><td><mark style="color:red;">On-site</mark> = 0 pontos<br><mark style="color:green;">Off-site</mark> = 10 pontos</td></tr><tr><td>Compartilhamento de recursos</td><td>Compartilhados/Dedicados</td><td><mark style="color:red;">Compartilhados</mark> = 0 pontos<br><mark style="color:green;">Dedicados</mark> = 10 pontos<br><br>Apenas um plano da hospedagem precisa ser dedicado para bater esse requisito, não todos.</td></tr><tr><td>Práticas insustentáveis</td><td>- Planos vitalícios<br>- Planos ilimitados<br>- Fração inconsistente</td><td>+10 pontos <mark style="color:green;">por cada prática não realizada</mark> (30 pontos totais)</td></tr><tr><td>Transparência</td><td>- Página de uptime<br>- Página de recursos</td><td>- <mark style="color:green;">Página de uptime</mark> = 5 pontos<br>- <mark style="color:green;">Página de recursos</mark> = 10 pontos</td></tr><tr><td>Adicionais</td><td>- Instalador de versões<br>- Instalador de modpacks<br>- Instalador de mods<br>- Instalador de plugins<br>- Server Splitter</td><td>- <mark style="color:green;">Server Splitter</mark> = 3 pontos<br>- <mark style="color:green;">Loja Inclusa</mark> = 3 pontos<br>- <mark style="color:green;">Backup de databases</mark> = 2 pontos<br>- <mark style="color:green;">Instalador de modpacks</mark> = 2 pontos<br>- <mark style="color:green;">Outros</mark> = 1 ponto<br><br>Caso a loja esteje inclusa, ela deverá ser de graça durante todo o período em que se pagar a hospedagem, além de que deve estar citada qual loja seria.<br><br>Essa observação tem um limite de 15 pontos.</td></tr></tbody></table>
 
-O total de pontos que uma empresa pode tirar é de **200.**
+O total de pontos que uma empresa pode tirar é de **190.**
 
 ### **Conversão para uma nota de 0 a 10**
 
@@ -117,11 +122,11 @@ A pontuação será convertida em uma nota de 0 a 10 para ficar de mais fácil v
 
 `(<Pontuação>*10)/<Pontuação Máxima>=Nota`
 
-Por exemplo, uma empresa conseguiu 160 pontos com o máximo de 200 pontos:
+Por exemplo, uma empresa conseguiu 160 pontos com o máximo de 190 pontos:
 
-(`160*10)/200=Nota` -> `1600/200=Nota` -> **8**
+(`160*10)/190=Nota` -> `1600/190=Nota` -> **8.421**
 
-A pontuação será arredondada para a primeira casa decimal caso seja irracional, por exemplo, 8.45 se tornará 8.4
+A pontuação será arredondada para a primeira casa decimal caso seja irracional, nesse caso, se tornando **8.4**
 
 ### Informações não presentes publicamente
 
