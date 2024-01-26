@@ -40,4 +40,4 @@ O seletor de versões tem os seguintes softwares disponíveis:
 MagnoHost tem falta de transparência em seu website e página de produtos sobre algumas informações, entretanto, as informações faltantes não são significativas na experiência:
 
 * Divisor de servidor: O limite de quantas divisões pode ser feitas é dependente do plano, entretanto, pode ser aumentado apenas por entrar em contato com o suporte.
-* Recursos dedicados: Segundo o suporte, gerenciam e instalam Pterodactyl nas VPS da empresa, no qual estão com recursos dedicados, servindo o requisito de recursos dedicados para hospedagem de Minecraft.
+* Recursos dedicados: Segundo o suporte, gerenciam e instalam Pterodactyl nas VPS da empresa, no qual estão com recursos dedicados.
