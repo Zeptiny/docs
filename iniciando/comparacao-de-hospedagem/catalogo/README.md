@@ -90,6 +90,55 @@ O seletor de versões tem os seguintes softwares disponíveis:
 
 `(<Pontuação>*10)/<Pontuação Máxima>=Nota` -> (`131*10)/200=Nota` -> 6.55
 
+## Syrtex.com.br | 5.3
+
+Data da avaliação - 26/01/2024&#x20;
+
+<table><thead><tr><th width="192">Ponto observado</th><th width="240">Informações</th><th width="218">Anotações</th><th>Pontos</th></tr></thead><tbody><tr><td>Localização</td><td>Brasil - São Paulo / Rio Grande do Sul / Rio de Janeiro<br>Estados Unidos - Miami</td><td>Pelo suporte foi possível descobrir as cidades em específico.</td><td></td></tr><tr><td>Legalidade</td><td><a href="https://cnpj.biz/49565390000136"><mark style="color:orange;">MEI</mark></a></td><td>Registrado de forma incorreta - <a href="../../escolhendo-uma-hospedagem/legais.md">Explicação</a></td><td>15</td></tr><tr><td>Sistema Financeiro</td><td><mark style="color:red;">WHMCS Não Autorizado</mark></td><td></td><td>0</td></tr><tr><td>Avaliação</td><td><a href="https://www.trustpilot.com/review/syrtex.cloud"><mark style="color:green;">TrustPilot</mark></a></td><td></td><td>10</td></tr><tr><td>Uptime SLA</td><td><mark style="color:green;">99.9% - 1x</mark></td><td>Uptime está listado na página de sobre da Syrtex.</td><td>10</td></tr><tr><td>Hardware</td><td>Brasil:<br>- <mark style="color:green;">Ryzen 9 5900X -</mark> 3,471<br>- <mark style="color:green;">Ryzen 9 5950X -</mark> 3,466<br><br>Estados Unidos:<br>- <mark style="color:green;">Ryzen 9 3900X -</mark> 2,707<br>- <mark style="color:green;">Ryzen 9 5900X -</mark> 3,471</td><td><mark style="color:red;">Diferente do que está listado no website para o plano dos estados Unidos, segundo o suporte, os processadores são os mesmos independente do plano, apenas da localização.</mark><br><br><mark style="color:red;">Assim ficando com discrepância de processadores comparado ao website (Estados Unidos com Ryzen 9 5900 e 5950X)</mark></td><td>25</td></tr><tr><td>Proteção DDoS</td><td><mark style="color:green;">SyrtexShield - 200Tbps</mark></td><td>Relata ser uma implementação própria da Syrtex, mais informações a baixo.</td><td>15</td></tr><tr><td>Backups on/off-site</td><td><mark style="color:red;">on-site</mark></td><td>Os backups realizados pelo cliente, segundo o suporte, fica salvo dentro da mesma máquina do servidor e em outra máquina, entretanto, por estar no mesmo datacenter ainda é considerado on-site.</td><td>0</td></tr><tr><td>Compartilhamento de recursos</td><td><mark style="color:green;">Dedicados</mark></td><td>Os planos da série "Dedicado" relatam ter recursos dedicados, mais informações a baixo.</td><td>10</td></tr><tr><td>Práticas insustentáveis</td><td>- <mark style="color:green;">Planos vitalícios</mark><br>- <mark style="color:red;">Planos ilimitados</mark><br>- <mark style="color:red;">Fração inconsistente</mark></td><td><ul><li>Contém RAM ilimitada em seus planos ilimitados</li><li>Fração de recursos se demonstra inconsistente nos planos dedicados, variando de 1-1.66GB de armazenamento por GB de ram, e variando de 10-80% de processador por GB de ram.</li></ul></td><td>10</td></tr><tr><td>Transparência</td><td>- <mark style="color:green;">Página de uptime</mark><br>- <mark style="color:red;">Página de recursos</mark><br>- <mark style="color:red;">Produtos/serviços</mark></td><td><ul><li>Contém uma página de uptime com o histórico</li></ul><ul><li>Falta muita informação sobre os recursos e informações de planos dos serviços oferecidos, variando desde disco, processador, proteção e localização</li></ul></td><td>5</td></tr><tr><td>Adicionais</td><td><p><mark style="color:green;">- Server Splitter</mark></p><p><mark style="color:green;">- Subdomínios</mark><br><mark style="color:green;">- Loja de servidor inclusa (PayCraft)</mark></p></td><td>- Loja de servidor inclusa em alguns planos específicos (Acima de 6GBs)</td><td>7</td></tr></tbody></table>
+
+***
+
+<details>
+
+<summary>Informações conseguidas pelo suporte</summary>
+
+Syrtex tem falta de transparência em seu website e página de produtos sobre algumas informações, as seguintes apenas foi possível conseguir com o suporte ou de formas externas:
+
+* Localização da hospedagem: No website está apenas citado Estados Unidos ou Brasil, sem a localização mais específica, como MIami, Rio Grande do Sul, Rio de Janeiro e São Paulo.
+* Processador: Pelo suporte foi possível descobrir uma discrepância dos processadores citados no website e dos processadores utilizados, com tanto Estados Unidos e Brasil utilizando Ryzen 9 5900/5950X, diferente do oferecido. Sendo Ryzen 9 3900X/5900X para os Estados Unidos e Ryzen 9 5900X/5950X para o Brasil.
+* Proteção DDoS: Pelo suporte foi possível descobrir mais informações sobre a proteção DDoS da Syrtex, relatando o seguinte:
+  * > 1. A proteção Anti DDoS da nossa Shield opera baseando-se em mascaras de rede e sub rede, com protocolos e interfaces limitados, que por sua vez, operam de acordo com a degradação parcial do serviço, ou seja, o protocolo utilizado faz com que o serviço que seja afetado continue operando normalmente, isento de ataques. Operamos com o desvio para redes da cloud flare integrada para melhor performance.
+    > 2. Também com uma série de protocolos de segurança e proteção privadas
+    > 3. Garantimos +200 TBps de proteção
+
+<!---->
+
+* Plano Dedicado: A alocação de núcleos não é completa nos planos dedicados, porém, segundo o suporte, garante que o mesmo núcleo ainda será dedicado ao cliente e o restante para o sistema, alocação incomum, porém, ainda considerado recursos dedicados.
+
+<!---->
+
+* Backups classificados como on-site: Foi possível saber pelo suporte que os backups são on-site.
+
+</details>
+
+{% tabs %}
+{% tab title="Painel" %}
+<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Server Splitter" %}
+<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Subdomínios" %}
+<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+Cálculo de pontuação:
+
+`(<Pontuação>*10)/<Pontuação Máxima>=Nota`-> `1070/200=Nota` -> 5.35
+
 ## BedHosting.com.br | 4.5 <a href="#bedhosting.com.br" id="bedhosting.com.br"></a>
 
 Data da avaliação - 24/01/2024
@@ -129,53 +178,6 @@ BedHosting tem falta de transparência em seu website e página de produtos sobr
 Cálculo de pontuação:
 
 `(<Pontuação>*10)/<Pontuação Máxima>=Nota`-> `910/200=Nota` -> 4.55
-
-## Syrtex.com.br | 4.1 <a href="#syrtex.com.br" id="syrtex.com.br"></a>
-
-Data da avaliação - 26/01/2024&#x20;
-
-<table><thead><tr><th width="192">Ponto observado</th><th width="240">Informações</th><th width="218">Anotações</th><th>Pontos</th></tr></thead><tbody><tr><td>Localização</td><td>Brasil - São Paulo / Rio Grande do Sul / Rio de Janeiro<br>Estados Unidos - Miami</td><td>Pelo suporte foi possível descobrir as cidades em específico.</td><td></td></tr><tr><td>Legalidade</td><td><a href="https://cnpj.biz/49565390000136"><mark style="color:orange;">MEI</mark></a></td><td>Registrado de forma incorreta - <a href="../../escolhendo-uma-hospedagem/legais.md">Explicação</a></td><td>15</td></tr><tr><td>Sistema Financeiro</td><td><mark style="color:red;">WHMCS Não Autorizado</mark></td><td></td><td>0</td></tr><tr><td>Avaliação</td><td><a href="https://www.trustpilot.com/review/syrtex.cloud"><mark style="color:green;">TrustPilot</mark></a></td><td></td><td>10</td></tr><tr><td>Uptime SLA</td><td><mark style="color:green;">99.9% - 1x</mark></td><td>Pelo suporte foi possível foi possível descobrir o uptime e SLA garantido.<br><br><mark style="color:red;">Pelo uptime e SLA não estar citada nos termos ou website, não arrecadará pontos.</mark></td><td>0</td></tr><tr><td>Hardware</td><td>Brasil:<br>- <mark style="color:green;">Ryzen 9 5900X -</mark> 3,471<br>- <mark style="color:green;">Ryzen 9 5950X -</mark> 3,466<br><br>Estados Unidos:<br>- <mark style="color:green;">Ryzen 9 3900X -</mark> 2,707<br>- <mark style="color:green;">Ryzen 9 5900X -</mark> 3,471</td><td><mark style="color:red;">Diferente do que está listado no website para o plano dos estados Unidos e para o plano ilimitado, segundo o suporte, os processadores são os mesmos independente do plano, apenas da localização.</mark><br><br><mark style="color:red;">Assim ficando com discrepância de processadores comparado ao website (Ilimitado com Ryzen 5/9 e Estados Unidos com Ryzen 9 5900 e 5950X)</mark></td><td>25</td></tr><tr><td>Proteção DDoS</td><td><mark style="color:green;">SyrtexShield - 200Tbps</mark></td><td>Relata ser uma implementação própria da Syrtex, mais informações a baixo.<br><br><mark style="color:red;">Pela capacidade não estar citada nos termos ou website, não arrecadará pontos.</mark></td><td>0</td></tr><tr><td>Backups on/off-site</td><td><mark style="color:red;">on-site</mark></td><td>Os backups realizados pelo cliente, segundo o suporte, fica salvo dentro da mesma máquina do servidor e em outra máquina, entretanto, por estar no mesmo datacenter ainda é considerado on-site.</td><td>0</td></tr><tr><td>Compartilhamento de recursos</td><td><mark style="color:green;">Dedicados</mark></td><td>Os planos da série "Dedicado" relatam ter recursos dedicados, enquanto cita apenas RAM dedicada, segundo o suporte, o processador também é dedicado.</td><td>10</td></tr><tr><td>Práticas insustentáveis</td><td>- <mark style="color:green;">Planos vitalícios</mark><br>- <mark style="color:red;">Planos ilimitados</mark><br>- <mark style="color:red;">Não é possível avaliar fração inconsistente</mark></td><td><ul><li>Contém RAM ilimitada em seus planos ilimitados</li></ul><ul><li>Pela falta de informações sobre os recursos do serviço é impossível avaliar a fração inconsistente.</li></ul></td><td>10</td></tr><tr><td>Transparência</td><td>- <mark style="color:green;">Página de uptime</mark><br>- <mark style="color:red;">Página de recursos</mark><br>- <mark style="color:red;">Produtos/serviços</mark></td><td><ul><li>Contém uma página de uptime com o histórico</li></ul><ul><li>Falta muita informação sobre os recursos e informações de planos dos serviços oferecidos, variando desde disco, processador, proteção e localização</li></ul></td><td>5</td></tr><tr><td>Adicionais</td><td><p><mark style="color:green;">- Server Splitter</mark></p><p><mark style="color:green;">- Subdomínios</mark><br><mark style="color:green;">- Loja de servidor inclusa (PayCraft)</mark></p></td><td>- Loja de servidor inclusa em alguns planos específicos</td><td>7</td></tr></tbody></table>
-
-***
-
-<details>
-
-<summary>Informações conseguidas pelo suporte</summary>
-
-Syrtex tem falta de transparência em seu website e página de produtos sobre algumas informações, as seguintes apenas foi possível conseguir com o suporte ou de formas externas:
-
-* Localização da hospedagem: No website está apenas citado Estados Unidos ou Brasil, sem a localização mais específica, como MIami, Rio Grande do Sul, Rio de Janeiro e São Paulo.
-* Processador: Pelo suporte foi possível descobrir uma discrepância dos processadores citados no website e dos processadores utilizados, com tanto Estados Unidos e Brasil utilizando Ryzen 9 5900/5950X e o plano ilimitado citado como Ryzen 5/9, diferente do oferecido. Sendo Ryzen 9 3900X/5900X para os Estados Unidos e Ryzen 9 5900X/5950X para o Brasil.
-* Proteção DDoS: Pelo suporte foi possível descobrir mais informações sobre a proteção DDoS da Syrtex, relatando o seguinte:
-  * > 1. A proteção Anti DDoS da nossa Shield opera baseando-se em mascaras de rede e sub rede, com protocolos e interfaces limitados, que por sua vez, operam de acordo com a degradação parcial do serviço, ou seja, o protocolo utilizado faz com que o serviço que seja afetado continue operando normalmente, isento de ataques. Operamos com o desvio para redes da cloud flare integrada para melhor performance.
-    > 2. Também com uma série de protocolos de segurança e proteção privadas
-    > 3. Garantimos +200 TBps de proteção
-
-<!---->
-
-* Plano Dedicado: Segundo o website apenas está citado RAM Dedciada, entretanto, segundo o suporte, o processador também é dedicado, enquanto é incomum apenas um recurso ser dedicado e não o outro, ainda é possível encontrar essa prática em algumas hospedagens.
-* Uptime e SLA: Apenas foi possível descobrir pelo suporte o uptime e SLA, sendo de 99.9% com compensação de 1x (Cada dia de downtime ganhará um dia a mais).
-* Backups classificados como on-site: Foi possível saber pelo suporte que os backups são on-site.
-
-</details>
-
-{% tabs %}
-{% tab title="Painel" %}
-<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="Server Splitter" %}
-<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="Subdomínios" %}
-<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
-
-Cálculo de pontuação:
-
-`(<Pontuação>*10)/<Pontuação Máxima>=Nota`-> `820/200=Nota` -> 4.1
 
 ## XMXCloud.net | 4 <a href="#xmxcloud.net" id="xmxcloud.net"></a>
 
