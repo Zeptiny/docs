@@ -12,7 +12,7 @@ Nas configurações DNS do seu domínio (Lado esquerdo), crie um novo registro c
 * **Proxy Status:** Deixe como DNS Only (Nuvem cinza)
 * **TTL:** Auto
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Exemplo com a configuração citada a cima</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Exemplo com a configuração citada a cima</p></figcaption></figure>
 
 Crie um novo registro, esse registro será usado para os jogadores se conectarem:
 
@@ -26,7 +26,7 @@ Crie um novo registro, esse registro será usado para os jogadores se conectarem
 * **Porta:** Porta do seu servidor (Java)
 * **Alvo:** O registro que criou anteriormente
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Exemplo com a configuração citada a cima</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Exemplo com a configuração citada a cima</p></figcaption></figure>
 
 Os dois registros estão com o mesmo nome neste exemplo, mas não haverá problema nesse caso por serem de tipos diferentes, os jogadores tanto Bedrock quanto java poderão entrar no servidor usando o mesmo nome de domínio.
 

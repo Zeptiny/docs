@@ -40,7 +40,7 @@ Data da avaliação - 25/01/2024
 
 ***
 
-A MagnoHost ofereceu no dia 24/01/2024 uma hospedagem de testes para pegar essas informações, qualquer e avaliação aqui não está nem a favor ou contra a MagnoHost devido a este fato.
+A MagnoHost ofereceu no dia 24/01/2024 uma hospedagem de testes para pegar essas informações, qualquer informação e avaliação aqui não está nem a favor ou contra a MagnoHost devido a este fato.
 
 <details>
 
@@ -104,6 +104,84 @@ O seletor de versões tem os seguintes softwares disponíveis:
 
 </details>
 
+## ElgaeHost.com.br | 6 <a href="#elgaehost.com.br" id="elgaehost.com.br"></a>
+
+Data de avaliação - 27/01/2024
+
+<table><thead><tr><th width="192">Ponto observado</th><th width="240">Informações</th><th width="218">Anotações</th><th>Pontos</th></tr></thead><tbody><tr><td>Localização</td><td>Brasil - Cotia/São Paulo</td><td></td><td></td></tr><tr><td>Legalidade</td><td><a href="https://cnpj.biz/46853968000161"><mark style="color:orange;">MEI</mark></a></td><td>Registrado de forma incorreta - <a href="https://docs.artbenedetti.com/iniciando-um-servidor/escolhendo-uma-hospedagem/legais">Explicação</a></td><td>15</td></tr><tr><td>Sistema Financeiro</td><td><mark style="color:green;">WHMCS</mark></td><td>Autorizada a utilizar</td><td>20</td></tr><tr><td>Avaliação</td><td><a href="https://br.trustpilot.com/review/elgaehost.com.br"><mark style="color:green;">TrustPilot</mark></a><br><a href="https://www.reclameaqui.com.br/empresa/elgae-host/"><mark style="color:orange;">ReclameAqui</mark></a></td><td>TrustPilot está citado e verificado<br>ReclameAqui está citado mas não verificada</td><td>10</td></tr><tr><td>Uptime SLA</td><td><mark style="color:red;">Inconsistente</mark></td><td><p></p><ul><li>Compensação não citada</li><li>Ausente nos termos</li><li>Página inicial relata 99%, página de produtos (Minecraft avançado e dedicado) relata 99.99%</li></ul></td><td>0</td></tr><tr><td>Hardware</td><td><mark style="color:green;">Ryzen 9 7950X -</mark> 4,297<br><mark style="color:green;">Ryzen 9 7900X</mark> - 4,284</td><td>A escolha do processador dependará da capacidade da hospedagem</td><td>25</td></tr><tr><td>Proteção DDoS</td><td><mark style="color:green;">228Tbps - Cloudflare Magic Transit &#x26; ShieldM</mark></td><td></td><td>15</td></tr><tr><td>Backups on/off-site</td><td><mark style="color:red;">on-site</mark></td><td>Segundo o suporte, os backups realizados são totalmente on-site</td><td>0</td></tr><tr><td>Compartilhamento de recursos</td><td><mark style="color:orange;">Dedicados</mark></td><td>Plano com recursos dedicados está em pré-venda, <mark style="color:red;">não acarretará pontos até o seu lançamento.</mark></td><td>0</td></tr><tr><td>Práticas insustentáveis</td><td>- <mark style="color:green;">Planos vitalícios</mark><br>- <mark style="color:red;">Planos ilimitados</mark><br>- <mark style="color:red;">Fração inconsistente</mark></td><td><ul><li>Não oferece planos vitalícios</li><li>Recursos ilimitados presentes em seus planos básicos</li><li>Fração inconsistente de recursos em seus planos avançados</li></ul></td><td>10</td></tr><tr><td>Transparência</td><td>- <a href="https://status.elgaehost.com.br/"><mark style="color:green;">Página de uptime</mark></a><br>- <mark style="color:red;">Página de recursos</mark></td><td><ul><li>Contém uma página de uptime, mas sem o uso de recursos.</li></ul></td><td>5</td></tr><tr><td>Adicionais</td><td><p>- <mark style="color:green;">Server Splitter</mark></p><p>- <mark style="color:green;">Loja de servidor (SynceMarket)</mark><br>- <mark style="color:green;">Backup de database</mark><br>- <mark style="color:green;">Instalador de versões</mark><br>- <mark style="color:green;">Instalador de plugins</mark><br>- <mark style="color:green;">Instalador de mods</mark><br>- <mark style="color:green;">Subdomínios</mark><br>- <mark style="color:green;">Pesquisa Inteligente</mark><br>- <mark style="color:green;">Portas Internas</mark></p></td><td><ul><li>A loja de servidor está incluso nos planos avançados</li><li>A quantidade de servidores adicionais dependerá do plano escolhido </li></ul></td><td>14</td></tr></tbody></table>
+
+Foi utilizado o teste grátis da ElgaeHost para pegar essas informações, qualquer informação e avaliação aqui não está nem a favor ou contra a ElgaeHost devido a este fato.
+
+{% tabs %}
+{% tab title="Painel" %}
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Splitter" %}
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+No Server Splitter da Elgae é possível criar servidores, o egg pode ser alterado após a criação do servidor, com possibilidade de editar os recursos após a criação.
+{% endtab %}
+
+{% tab title="Backup DB" %}
+<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+
+Os backups da Elgae (Tanto para database quando para o servidor) ficam separados dos feitos manualmente e dos feitos automaticamente.
+{% endtab %}
+
+{% tab title="Versões" %}
+<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+
+Os softwares disponíveis para a seleção são:
+
+* Vanilla
+* Snapshot
+* Spigot
+* Paper
+* Purpur
+* Sponge
+* Bungeecord
+* Waterfall
+* Velocity
+* Fabric
+* Mohist
+{% endtab %}
+
+{% tab title="Plugins" %}
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+Os mods da lista são pegos do Spigot, Modrinth e Polymart
+{% endtab %}
+
+{% tab title="Mods" %}
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Os mods da lista são pegos do CurseForge
+{% endtab %}
+
+{% tab title="Subdomínio" %}
+<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+
+Para subdomínios apenas existe uma seleção, elgaehost.com.br
+{% endtab %}
+
+{% tab title="Pesquisa" %}
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+A pesquisa da Elgae é capaz de pesquisar arquivos, informações dentro dos arquivos e dentro de backups.
+{% endtab %}
+
+{% tab title="Portas internas" %}
+<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+
+É possível a criação de portas internas, estão são, apenas acessíveis dentro da mesma máquina, assim permitindo uma conexão mais segura e privada para networks.
+{% endtab %}
+{% endtabs %}
+
+**Cálculo de pontuação**:
+
+`(<Pontuação>*10)/<Pontuação Máxima>=Nota` -> `(114*10)/190=Nota` -> 6
+
 ## Syrtex.com.br | 5.6 <a href="#syrtex.com.br" id="syrtex.com.br"></a>
 
 Data da avaliação - 26/01/2024&#x20;
@@ -161,7 +239,7 @@ Data da avaliação - 24/01/2024
 
 ***
 
-A BedHosting ofereceu no dia 24/01/2024 uma hospedagem de testes para pegar essas informações, qualquer e avaliação aqui não está nem a favor ou contra a Bedhosting devido a este fato.
+A BedHosting ofereceu no dia 24/01/2024 uma hospedagem de testes para pegar essas informações, qualquer informação e avaliação aqui não está nem a favor ou contra a Bedhosting devido a este fato.
 
 <details>
 
@@ -181,11 +259,11 @@ BedHosting tem falta de transparência em seu website e página de produtos sobr
 
 {% tabs %}
 {% tab title="Painel" %}
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Subdomínios" %}
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -227,19 +305,19 @@ Essas são as informações que não foram citadas no website mas que foi possí
 
 {% tabs %}
 {% tab title="Painel" %}
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Subdomínios" %}
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Instalador de versões" %}
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Server Splitter" %}
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
