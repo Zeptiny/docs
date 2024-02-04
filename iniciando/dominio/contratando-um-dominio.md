@@ -1,11 +1,13 @@
 # Contratando um domínio
 
-Diferente de muitos serviços na internet, um domínio é contratado pagando anualmente, e pode ser contratado de várias empresas, que ficará a sua escolha, como por exemplo:
+Diferente de muitos serviços na internet, um domínio é contratado pagando anualmente, e pode ser contratado de várias empresas, que ficará a sua escolha, como, por exemplo:
 
 * [Cloudflare](https://www.cloudflare.com/)
 * [GoDaddy](https://www.godaddy.com)
 * [Hostinger](https://www.hostinger.com/)
 * [Porkbun](https://porkbun.com/)
+* [Locaweb](https://www.locaweb.com.br/)
+* [Hostgator](https://www.hostgator.com.br/)
 
 Entre várias outras opções disponíveis na internet, entretanto, cada empresa terá um valor diferente, tanto de contratação quanto de renovação, você pode comparar escolhendo o seu domínio e o seu TLD e indo em cada uma das empresas para comparar as ofertas, também existem sites como [tld-list](https://tld-list.com/) que fazem essa comparação.
 
