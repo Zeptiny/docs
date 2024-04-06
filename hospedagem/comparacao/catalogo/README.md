@@ -93,9 +93,11 @@ Lista das hospedagens que estão planejadas de serem adicionadas:
 Para essas hospedagens serem adicionadas, será necessário realizar as seguintes ações:
 
 * Coletar as informações públicas e avaliar com os pontos considerados dentro dessa documentação
-* Retirar qualquer dúvida que venha a surgir com o suporte do Discord com a intenção de melhorar as informações presentes
+* Retirar qualquer dúvida que surja com o suporte da hospedagem com a intenção de melhorar as informações presentes
 * Pegar informações do painel, assim como screenshots e adicionais não citados no website
 
 Entretanto, para isso, é necessário entrar em contato com o suporte e conseguir um plano de teste/avaliação para a realização dessa documentação, por isso, poderá demorar para uma hospedagem ser adicionada.
 
 Sempre entraremos em contato com o suporte previamente da adição dela nesta documentação para fins de deixar mais completo.
+
+Caso alguma hospedagem que você queira que seja adicionada nessa lista não seja uma das presentes acima, não hesite de enviar um issu/pull request no [Github ](https://github.com/Zeptiny/docs)ou em nosso Discord.
