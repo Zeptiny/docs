@@ -13,12 +13,35 @@ N/A
 </details>
 
 {% tabs %}
-{% tab title="Adiconal 1" %}
-Copiar o antigo
+{% tab title="Painel" %}
+<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Adicional 2" %}
+{% tab title="Server Splitter" %}
+<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
 
+{% tab title="Seletor de versão" %}
+<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+
+O seletor de versões tem os seguintes softwares disponíveis:
+
+* Paper Spigot
+* Mohist
+* PufferFish
+* Purpur
+* Magma
+* ArchLight
+* Spigot
+* PocketMine
+{% endtab %}
+
+{% tab title="Subdomínios" %}
+<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Lixeira" %}
+<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

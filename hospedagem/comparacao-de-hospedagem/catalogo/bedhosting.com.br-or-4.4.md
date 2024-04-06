@@ -13,12 +13,12 @@ Caso alguma informação apenas foi possível adquirir por meio do suporte
 </details>
 
 {% tabs %}
-{% tab title="Adiconal 1" %}
-Pegar as informações já feitas
+{% tab title="Painel" %}
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Adicional 2" %}
-
+{% tab title="Subdomínios" %}
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

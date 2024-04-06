@@ -13,12 +13,20 @@ Caso alguma informação apenas foi possível adquirir por meio do suporte
 </details>
 
 {% tabs %}
-{% tab title="Adiconal 1" %}
-Pegar as prints já feitas
+{% tab title="Painel" %}
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Adicional 2" %}
+{% tab title="Subdomínios" %}
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
 
+{% tab title="Instalador de versões" %}
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Server Splitter" %}
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

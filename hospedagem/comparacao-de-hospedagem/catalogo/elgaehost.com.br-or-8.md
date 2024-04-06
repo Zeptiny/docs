@@ -13,8 +13,68 @@ N/A
 </details>
 
 {% tabs %}
-{% tab title="Adiconal 1" %}
-Copiar o antigo e adicionar os enviados pelo Discord
+{% tab title="Painel" %}
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Splitter" %}
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+
+No Server Splitter da Elgae é possível criar servidores, o egg pode ser alterado após a criação do servidor, com possibilidade de editar os recursos após a criação.
+{% endtab %}
+
+{% tab title="Backup DB" %}
+<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+
+Os backups da Elgae (Tanto para database quando para o servidor) ficam separados dos feitos manualmente e dos feitos automaticamente.
+{% endtab %}
+
+{% tab title="Versões" %}
+<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+
+Os softwares disponíveis para a seleção são:
+
+* Vanilla
+* Snapshot
+* Spigot
+* Paper
+* Purpur
+* Sponge
+* Bungeecord
+* Waterfall
+* Velocity
+* Fabric
+* Mohist
+{% endtab %}
+
+{% tab title="Plugins" %}
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+
+Os mods da lista são pegos do Spigot, Modrinth e Polymart
+{% endtab %}
+
+{% tab title="Mods" %}
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
+Os mods da lista são pegos do CurseForge
+{% endtab %}
+
+{% tab title="Subdomínio" %}
+<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+
+Para subdomínios apenas existe uma seleção, elgaehost.com.br
+{% endtab %}
+
+{% tab title="Pesquisa" %}
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+
+A pesquisa da Elgae é capaz de pesquisar arquivos, informações dentro dos arquivos e dentro de backups.
+{% endtab %}
+
+{% tab title="Portas internas" %}
+<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+
+É possível a criação de portas internas, estão são, apenas acessíveis dentro da mesma máquina, assim permitindo uma conexão mais segura e privada para networks.
 {% endtab %}
 {% endtabs %}
 

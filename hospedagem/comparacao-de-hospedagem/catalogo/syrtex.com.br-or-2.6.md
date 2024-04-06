@@ -15,15 +15,18 @@ Caso alguma informação apenas foi possível adquirir por meio do suporte
 </details>
 
 {% tabs %}
-{% tab title="Adiconal 1" %}
-Copiar as informações já pegas anteriormente
+{% tab title="Painel" %}
+<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Adicional 2" %}
+{% tab title="Server Splitter" %}
+<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
 
+{% tab title="Subdomínios" %}
+<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
-
 <details>
 
 <summary>Observações adicionais</summary>
