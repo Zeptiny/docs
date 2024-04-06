@@ -32,6 +32,8 @@ As informações serão atualizadas mensalmente, na primeira semana de cada mês
 
 Apenas será alterada alguma informação antes da atualização geral em caso da **informação estar incorreta**, mesmo se a hospedagem atualizar os seus serviços ou informações antes da atualização geral, ela não será alterada nesta documentação.
 
+Última data da atualização geral: 04-06/02/2024
+
 ## Tabela simplificada
 
 Uma tabela, extremamente simplificada, para listar todas as hospedagens comparadas e a respectiva nota.
