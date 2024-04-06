@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Comparação de hospedagem - EM TESTES
 
 ## <mark style="color:red;">Este guia continua sendo testado e alterado frequentemente, qualquer sugestão, não hesite de entrar em contato.</mark>

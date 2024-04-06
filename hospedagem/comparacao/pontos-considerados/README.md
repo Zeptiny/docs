@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Pontos considerados
 
 Todas as observações presentes aqui foram discutidas dentro do [Escolhendo uma hospedagem](../../escolhendo-uma-hospedagem/).
@@ -135,6 +149,6 @@ Caso alguma informação que esteja sendo avaliada não esteja presente publicam
 
 Por que isso? Pois visamos uma comunidade mais transparente, com empresas relatando exatamente o que receberemos pelo nosso dinheiro, sem ter que comprar algo para saber o que receberá, desde o processador, o limite dos recursos, a proteção e a localização.
 
-{% content-ref url="modelo-de-comparacao.md" %}
-[modelo-de-comparacao.md](modelo-de-comparacao.md)
+{% content-ref url="modelo.md" %}
+[modelo.md](modelo.md)
 {% endcontent-ref %}
