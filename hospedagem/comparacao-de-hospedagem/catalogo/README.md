@@ -20,15 +20,30 @@ A ordem no qual as hospedagens estão organizadas são as que mais batem com os 
 
 ## <mark style="color:red;">Importante</mark>
 
-Em algumas avaliações foi entrado em contato com o suporte, isso será feito com todas as hospedagens no qual não dão informações suficientes em seus websites para a avaliação completa, estará claramente descrito caso alguma informação foi apenas possível conseguir pelo suporte, e com uma lista na página da hospedagem desta documentação com todos os pontos que foram apenas pegos pelo suporte.\
-Caso alguma informação apenas foi possível de ser pega entrando em contato com o suporte, não irá contar na pontuação da hospedagem, e consequentemente em seu ranking, entretanto, ainda estará disponível nessa comparação. O objetivo dessa documentação é trazer maior transparência as hospedagens de Minecraft assim como compartilhar informações básicas sobre elas.\
-Algumas hospedagens estão com avaliações feitas de maneiras antigas, estamos ativamente re-analisando todas para ficarem com o mesmo método.
+Em algumas avaliações foi entrado em contato com o suporte, isso será feito com todas as hospedagens no qual não dão informações suficientes em seus websites para a avaliação completa, estará claramente descrito caso alguma informação foi apenas possível conseguir pelo suporte.
 
-## Utilização de cores na aba de informações
+Caso alguma informação apenas foi possível de ser pega entrando em contato com o suporte, não irá contar na pontuação da hospedagem, e consequentemente em seu ranking, entretanto, ainda estará disponível nessa comparação.&#x20;
+
+O objetivo dessa documentação é trazer maior transparência as hospedagens de Minecraft assim como compartilhar informações básicas sobre elas. <mark style="color:red;">Ela não é, de nenhum modo, uma avaliação da qualidade da hospedagem, ou da performance.</mark>
+
+## Atualização das informações
+
+As informações serão atualizadas mensalmente, na primeira semana de cada mês, de todas as hospedagens.
+
+Apenas será alterada alguma informação antes da atualização geral em caso da **informação estar incorreta**, mesmo se a hospedagem atualizar os seus serviços ou informações antes da atualização geral, ela não será alterada nesta documentação.
+
+## Tabela simplificada
+
+Uma tabela, extremamente simplificada, para listar todas as hospedagens comparadas e a respectiva nota.
+
+<table><thead><tr><th width="155">Empresa</th><th width="74">Nota</th><th width="82">Legal</th><th width="87">Uptime</th><th width="105">Recursos</th><th width="117">Adicionais</th><th data-type="content-ref">Website</th></tr></thead><tbody><tr><td>Empresa 1</td><td>10.0</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Empresa 2</td><td>10.0</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Empresa 3</td><td>10.0</td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+## Utilização de cores
 
 * <mark style="color:green;">Verde</mark>: Cumpriu totalmente o ponto observado
 * <mark style="color:orange;">Laranja</mark>: Cumpriu parcialmente o ponto observado
 * <mark style="color:red;">Vermelho</mark>: Não cumpriu o ponto observado
+* Branco: Ponto informacional (Não acarreta ranking)
 
 Mais informações sobre os pontos observados estará disponível na página dedicada àquela hospedagem dentro dessa documentação.
 
@@ -114,11 +129,11 @@ Foi utilizado o teste grátis da ElgaeHost para pegar essas informações, qualq
 
 {% tabs %}
 {% tab title="Painel" %}
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Splitter" %}
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 No Server Splitter da Elgae é possível criar servidores, o egg pode ser alterado após a criação do servidor, com possibilidade de editar os recursos após a criação.
 {% endtab %}
@@ -148,13 +163,13 @@ Os softwares disponíveis para a seleção são:
 {% endtab %}
 
 {% tab title="Plugins" %}
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 Os mods da lista são pegos do Spigot, Modrinth e Polymart
 {% endtab %}
 
 {% tab title="Mods" %}
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 Os mods da lista são pegos do CurseForge
 {% endtab %}
@@ -166,7 +181,7 @@ Para subdomínios apenas existe uma seleção, elgaehost.com.br
 {% endtab %}
 
 {% tab title="Pesquisa" %}
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 A pesquisa da Elgae é capaz de pesquisar arquivos, informações dentro dos arquivos e dentro de backups.
 {% endtab %}
@@ -259,11 +274,11 @@ BedHosting tem falta de transparência em seu website e página de produtos sobr
 
 {% tabs %}
 {% tab title="Painel" %}
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Subdomínios" %}
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -305,19 +320,19 @@ Essas são as informações que não foram citadas no website mas que foi possí
 
 {% tabs %}
 {% tab title="Painel" %}
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Subdomínios" %}
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Instalador de versões" %}
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Server Splitter" %}
-<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -327,12 +342,11 @@ Cálculo de pontuação:
 
 ***
 
-## <mark style="color:red;">As hospedagens abaixo foram avaliadas de um modo antigo, as informações poderão mudar e não tem uma nota de 0 a 10, irão ser adicionadas nesta página assim que as avaliações forem atualizadas</mark>
+## Hospedagens planejadas de serem adicionadas
 
-{% content-ref url="catalogo.md" %}
-[catalogo.md](catalogo.md)
-{% endcontent-ref %}
+Essas hospedagens estão planejadas para serem adicionadas a essa lista, qualquer outra sugestão de hospedagem pode ser enviada pelo Github ou Discord.
 
-{% content-ref url="arquivamento.md" %}
-[arquivamento.md](arquivamento.md)
-{% endcontent-ref %}
+* ReisHosting.com.br
+* EnxadaHost.com
+* StabilityHost.com.br
+* HostMine.com.br
