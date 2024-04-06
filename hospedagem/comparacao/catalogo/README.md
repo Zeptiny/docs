@@ -81,3 +81,21 @@ Mais informações sobre os pontos observados estará disponível na página ded
 [syrtex.com.br.md](syrtex.com.br.md)
 {% endcontent-ref %}
 
+## Hospedagens que serão adicionadas
+
+Lista das hospedagens que estão planejadas de serem adicionadas:
+
+* HostSquare.com.br
+* ReisHosting.com.br
+* StabilityHost.com.br
+* EnxadaHost.com
+
+Para essas hospedagens serem adicionadas, será necessário realizar as seguintes ações:
+
+* Coletar as informações públicas e avaliar com os pontos considerados dentro dessa documentação
+* Retirar qualquer dúvida que venha a surgir com o suporte do Discord com a intenção de melhorar as informações presentes
+* Pegar informações do painel, assim como screenshots e adicionais não citados no website
+
+Entretanto, para isso, é necessário entrar em contato com o suporte e conseguir um plano de teste/avaliação para a realização dessa documentação, por isso, poderá demorar para uma hospedagem ser adicionada.
+
+Sempre entraremos em contato com o suporte previamente da adição dela nesta documentação para fins de deixar mais completo.
