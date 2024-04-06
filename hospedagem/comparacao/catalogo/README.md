@@ -24,7 +24,7 @@ Em algumas avaliações foi entrado em contato com o suporte, isso será feito c
 
 Caso alguma informação apenas foi possível de ser pega entrando em contato com o suporte, não irá contar na pontuação da hospedagem, e consequentemente em seu ranking, entretanto, ainda estará disponível nessa comparação.
 
-O objetivo dessa documentação é trazer maior transparência as hospedagens de Minecraft assim como compartilhar informações básicas sobre elas. <mark style="color:red;">Ela não é, de nenhum modo, uma avaliação da qualidade da hospedagem, ou da performance.</mark>
+O objetivo dessa documentação é trazer maior transparência as hospedagens de Minecraft, assim como compartilhar informações básicas sobre elas. <mark style="color:red;">Ela não é, de nenhum modo, uma avaliação da qualidade da hospedagem, ou da performance.</mark>
 
 ## Atualização das informações
 
@@ -100,4 +100,4 @@ Entretanto, para isso, é necessário entrar em contato com o suporte e consegui
 
 Sempre entraremos em contato com o suporte previamente da adição dela nesta documentação para fins de deixar mais completo.
 
-Caso alguma hospedagem que você queira que seja adicionada nessa lista não seja uma das presentes acima, não hesite de enviar um issu/pull request no [Github ](https://github.com/Zeptiny/docs)ou em nosso Discord.
+Caso alguma hospedagem que você queira que seja adicionada nessa lista não seja uma das presentes acima, não hesite de enviar um issue/pull request no [Github ](https://github.com/Zeptiny/docs)ou em nosso Discord.
