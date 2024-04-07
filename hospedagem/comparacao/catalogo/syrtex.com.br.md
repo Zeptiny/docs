@@ -16,7 +16,7 @@ layout:
 
 ## Syrtex.com.br | 2.67
 
-<table><thead><tr><th width="192">Ponto observado</th><th width="240">Informações</th><th width="218">Anotações</th><th>Pontos</th></tr></thead><tbody><tr><td>Localização</td><td><mark style="color:red;">Brasil</mark><br><mark style="color:red;">Estados Unidos</mark></td><td>Não cita a localização exata</td><td>N/A</td></tr><tr><td>Legalidade</td><td><mark style="color:orange;">MEI</mark></td><td>49.565.390/0001-36</td><td><mark style="color:orange;">15</mark></td></tr><tr><td>Sistema Financeiro</td><td><mark style="color:red;">WHMCS</mark></td><td>Não autorizado</td><td><mark style="color:red;">0</mark></td></tr><tr><td>Avaliação</td><td><mark style="color:red;">TrustPilot</mark></td><td>[3]</td><td><mark style="color:red;">0</mark></td></tr><tr><td>Uptime SLA</td><td><mark style="color:red;">Não citado</mark></td><td></td><td><mark style="color:red;">0</mark></td></tr><tr><td>Hardware</td><td>Brasil:<br>- Plano Avançado<br>- <mark style="color:green;">Ryzen 9 5900X</mark><br>- Plano Enterprise<br>- <mark style="color:green;">Ryzen 9 5900X</mark><br><br>Estados Unidos:<br>- Plano Enterprise<br>- <mark style="color:red;">Roleta Russa</mark></td><td><ul><li>Não há nenhuma citação de processador nos planos Enterprise dos Estados Unidos, nem mesmo a quantidade de núcleos do processador.</li></ul></td><td><mark style="color:orange;">16.66</mark></td></tr><tr><td>Rede</td><td>Proteção DDoS:<br>- <mark style="color:green;">Cloudflare Magic Transit</mark><br>- <mark style="color:red;">Syrtex Shield</mark><br><br>ASN: Sem informação<br>Banda: 1-10Gbps</td><td><ul><li>[1]</li><li>[2]</li></ul></td><td><mark style="color:orange;">7.5</mark></td></tr><tr><td>Backups on/off-site</td><td><mark style="color:red;">Sem Informação</mark></td><td></td><td><mark style="color:red;">0</mark></td></tr><tr><td>Compartilhamento de recursos</td><td><mark style="color:red;">Sem Informação</mark></td><td></td><td><mark style="color:red;">0</mark></td></tr><tr><td>Práticas insustentáveis</td><td>- <mark style="color:green;">Planos vitalícios</mark><br>- <mark style="color:red;">Planos ilimitados</mark><br>- <mark style="color:red;">Fração inconsistente</mark></td><td><ul><li>Planos Avançado possuem ram ilimitada</li><li>[4]</li></ul></td><td><mark style="color:orange;">10</mark></td></tr><tr><td>Uptime e utilização</td><td>- <mark style="color:red;">Página de uptime</mark><br>- <mark style="color:red;">Página de recursos</mark></td><td>Sem Informação</td><td><mark style="color:red;">0</mark></td></tr><tr><td>Adicionais</td><td>- <mark style="color:green;">Server Splitter</mark><br>- <mark style="color:green;">Subdomínios</mark></td><td>[5]</td><td>7</td></tr></tbody></table>
+<table><thead><tr><th width="192">Ponto observado</th><th width="240">Informações</th><th width="218">Anotações</th><th>Pontos</th></tr></thead><tbody><tr><td>Localização</td><td><mark style="color:red;">Brasil</mark><br><mark style="color:red;">Estados Unidos</mark></td><td>Não cita a localização exata</td><td>N/A</td></tr><tr><td>Legalidade</td><td><mark style="color:orange;">MEI</mark></td><td>49.565.390/0001-36</td><td><mark style="color:orange;">15</mark></td></tr><tr><td>Sistema Financeiro</td><td><mark style="color:red;">WHMCS</mark></td><td>Não autorizado</td><td><mark style="color:red;">0</mark></td></tr><tr><td>Avaliação</td><td><mark style="color:red;">TrustPilot</mark></td><td><a href="syrtex.com.br.md#id-3">[3]</a></td><td><mark style="color:red;">0</mark></td></tr><tr><td>Uptime SLA</td><td><mark style="color:red;">Não citado</mark></td><td></td><td><mark style="color:red;">0</mark></td></tr><tr><td>Hardware</td><td>Brasil:<br>- Plano Avançado<br>- <mark style="color:green;">Ryzen 9 5900X</mark><br>- Plano Enterprise<br>- <mark style="color:green;">Ryzen 9 5900X</mark><br><br>Estados Unidos:<br>- Plano Enterprise<br>- <mark style="color:red;">Roleta Russa</mark></td><td><ul><li>Não há nenhuma citação de processador nos planos Enterprise dos Estados Unidos, nem mesmo a quantidade de núcleos do processador.</li></ul></td><td><mark style="color:orange;">16.66</mark></td></tr><tr><td>Rede</td><td>Proteção DDoS:<br>- <mark style="color:green;">Cloudflare Magic Transit</mark><br>- <mark style="color:red;">Syrtex Shield</mark><br><br>ASN: Sem informação<br>Banda: 1-10Gbps</td><td><ul><li><a href="syrtex.com.br.md#id-1">[1]</a></li><li><a href="syrtex.com.br.md#id-2">[2]</a></li></ul></td><td><mark style="color:orange;">7.5</mark></td></tr><tr><td>Backups on/off-site</td><td><mark style="color:red;">Sem Informação</mark></td><td></td><td><mark style="color:red;">0</mark></td></tr><tr><td>Compartilhamento de recursos</td><td><mark style="color:red;">Sem Informação</mark></td><td></td><td><mark style="color:red;">0</mark></td></tr><tr><td>Práticas insustentáveis</td><td>- <mark style="color:green;">Planos vitalícios</mark><br>- <mark style="color:red;">Planos ilimitados</mark><br>- <mark style="color:red;">Fração inconsistente</mark></td><td><ul><li>Planos Avançado possuem ram ilimitada</li><li><a href="syrtex.com.br.md#id-4">[4]</a></li></ul></td><td><mark style="color:orange;">10</mark></td></tr><tr><td>Uptime e utilização</td><td>- <mark style="color:red;">Página de uptime</mark><br>- <mark style="color:red;">Página de recursos</mark></td><td>Sem Informação</td><td><mark style="color:red;">0</mark></td></tr><tr><td>Adicionais</td><td>- <mark style="color:green;">Server Splitter</mark><br>- <mark style="color:green;">Subdomínios</mark></td><td><a href="syrtex.com.br.md#id-5">[5]</a></td><td>7</td></tr></tbody></table>
 
 <details>
 
@@ -44,16 +44,24 @@ Caso alguma informação apenas foi possível adquirir por meio do suporte
 
 <summary>Observações adicionais</summary>
 
-\[1] - Cita a Cloudflare Magic Transit em sua proteção DDoS, aparenta estar presente em todas as localizações\
+## \[1]
+
+Cita a Cloudflare Magic Transit em sua proteção DDoS, aparenta estar presente em todas as localizações\
 Entretanto, também cita o Syrtex Shield, no qual se baseia no Magic Transit.
 
 <img src="../../../.gitbook/assets/image (39).png" alt="" data-size="original">
 
-\[2] - Plano Enterprise Brasileiro possui 10Gbps de rede, enquanto o do Estados Unidos possui 1Gbps, planos avançados não cita velocidade de rede.
+## \[2]&#x20;
 
-\[3] - Contém uma imagem do TrustPilot, relatando 5 estrelas, sem redirecionamento ou o uso do widget real.
+Plano Enterprise Brasileiro possui 10Gbps de rede, enquanto o dos Estados Unidos possui 1Gbps, planos avançados não cita velocidade de rede.
 
-\[4] - Não é possível avaliar fração inconsistente nos Planos Enterprise dos Esatdos Unidos e nos planos Avançados do Brasil pela falta de informação.\
+## \[3]
+
+Contém uma imagem do TrustPilot, relatando 5 estrelas, sem redirecionamento ou o uso do widget real.
+
+## \[4]
+
+Não é possível avaliar fração inconsistente nos Planos Enterprise dos Estados Unidos e nos planos Avançados do Brasil pela falta de informação.\
 Existe fração inconsistente nos Planos Enterprise do Brasil
 
 <img src="../../../.gitbook/assets/image (41).png" alt="" data-size="original"><img src="../../../.gitbook/assets/image (42).png" alt="" data-size="original">
@@ -64,7 +72,9 @@ O plano de 6GB de ram deveria estar recebendo 4vCPU e 75GB de SSD, ou o plano de
 
 Essa fração inconsistente ocorrem com todos os planos em qualquer comparação.
 
-\[5] - Último dia que as informações sobre os adicionais foram atualizadas: 26/01/2024
+## \[5]
+
+Último dia que as informações sobre os adicionais foram atualizadas: 26/01/2024
 
 </details>
 
