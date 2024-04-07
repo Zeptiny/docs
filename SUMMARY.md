@@ -45,7 +45,6 @@
     * [MagnoHost.com.br | 6.1](hospedagem/comparacao/catalogo/magnohost.com.br.md)
     * [XMXCloud.net | 4.9](hospedagem/comparacao/catalogo/xmxcloud.net.md)
     * [BedHosting.com.br | 4.4](hospedagem/comparacao/catalogo/bedhosting.com.br.md)
-    * [Syrtex.com.br | 2.6](hospedagem/comparacao/catalogo/syrtex.com.br.md)
 
 ## Rodando um servidor <a href="#rodando" id="rodando"></a>
 

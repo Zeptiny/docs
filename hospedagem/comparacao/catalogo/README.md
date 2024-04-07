@@ -38,7 +38,7 @@ Apenas será alterada alguma informação antes da atualização geral em caso d
 
 Uma tabela, extremamente simplificada, para listar todas as hospedagens comparadas e a respectiva nota.
 
-<table><thead><tr><th width="135">Empresa</th><th width="71">Nota</th><th width="76">Legal</th><th width="107">Sistema</th><th width="115">Recursos</th><th width="117">Adicionais</th><th data-type="content-ref">Website</th></tr></thead><tbody><tr><td><a href="elgaehost.com.br.md">ElgaeHost</a></td><td>8</td><td><mark style="color:orange;">MEI</mark></td><td><mark style="color:green;">WHMCS</mark></td><td><mark style="color:green;">Dedicados</mark></td><td>30 (Pontos)</td><td><a href="https://www.elgaehost.com.br">https://www.elgaehost.com.br</a></td></tr><tr><td><a href="magnohost.com.br.md">MagnoHost</a></td><td>6.1</td><td><mark style="color:orange;">MEI</mark></td><td><mark style="color:red;">WHMCS</mark></td><td><mark style="color:red;">Compartilhados</mark></td><td>11 (Pontos)</td><td><a href="https://www.magnohost.com.br/">https://www.magnohost.com.br/</a></td></tr><tr><td><a href="xmxcloud.net.md">XMXCloud</a></td><td>4.9</td><td><mark style="color:red;">N/A</mark></td><td><mark style="color:green;">WHMCS</mark></td><td><mark style="color:red;">Sem Info</mark></td><td>9 (Pontos)</td><td><a href="https://xmxcloud.net/">https://xmxcloud.net/</a></td></tr><tr><td><a href="bedhosting.com.br.md">BedHosting</a></td><td>4.4</td><td><mark style="color:orange;">MEI</mark></td><td><mark style="color:green;">WHMCS</mark></td><td><mark style="color:red;">Sem Info</mark></td><td>2 (Pontos)</td><td><a href="https://bedhosting.com.br/">https://bedhosting.com.br/</a></td></tr><tr><td><a href="syrtex.com.br.md">Syrtex</a></td><td>2.6</td><td><mark style="color:orange;">MEI</mark></td><td><mark style="color:red;">WHMCS</mark></td><td><mark style="color:red;">Sem Info</mark></td><td>7 (Pontos)</td><td><a href="https://syrtex.com.br/">https://syrtex.com.br/</a></td></tr></tbody></table>
+<table><thead><tr><th width="135">Empresa</th><th width="71">Nota</th><th width="76">Legal</th><th width="107">Sistema</th><th width="115">Recursos</th><th width="117">Adicionais</th><th data-type="content-ref">Website</th></tr></thead><tbody><tr><td><a href="elgaehost.com.br.md">ElgaeHost</a></td><td>8</td><td><mark style="color:orange;">MEI</mark></td><td><mark style="color:green;">WHMCS</mark></td><td><mark style="color:green;">Dedicados</mark></td><td>30 (Pontos)</td><td><a href="https://www.elgaehost.com.br">https://www.elgaehost.com.br</a></td></tr><tr><td><a href="magnohost.com.br.md">MagnoHost</a></td><td>6.1</td><td><mark style="color:orange;">MEI</mark></td><td><mark style="color:red;">WHMCS</mark></td><td><mark style="color:red;">Compartilhados</mark></td><td>11 (Pontos)</td><td><a href="https://www.magnohost.com.br/">https://www.magnohost.com.br/</a></td></tr><tr><td><a href="xmxcloud.net.md">XMXCloud</a></td><td>4.9</td><td><mark style="color:red;">N/A</mark></td><td><mark style="color:green;">WHMCS</mark></td><td><mark style="color:red;">Sem Info</mark></td><td>9 (Pontos)</td><td><a href="https://xmxcloud.net/">https://xmxcloud.net/</a></td></tr><tr><td><a href="bedhosting.com.br.md">BedHosting</a></td><td>4.4</td><td><mark style="color:orange;">MEI</mark></td><td><mark style="color:green;">WHMCS</mark></td><td><mark style="color:red;">Sem Info</mark></td><td>2 (Pontos)</td><td><a href="https://bedhosting.com.br/">https://bedhosting.com.br/</a></td></tr></tbody></table>
 
 ### Informações da tabela:
 
@@ -77,10 +77,6 @@ Mais informações sobre os pontos observados estará disponível na página ded
 [bedhosting.com.br.md](bedhosting.com.br.md)
 {% endcontent-ref %}
 
-{% content-ref url="syrtex.com.br.md" %}
-[syrtex.com.br.md](syrtex.com.br.md)
-{% endcontent-ref %}
-
 ## Hospedagens que serão adicionadas
 
 Lista das hospedagens que estão planejadas de serem adicionadas:
@@ -101,3 +97,10 @@ Entretanto, para isso, é necessário entrar em contato com o suporte e consegui
 Sempre entraremos em contato com o suporte previamente da adição dela nesta documentação para fins de deixar mais completo.
 
 Caso alguma hospedagem que você queira que seja adicionada nessa lista não seja uma das presentes acima, não hesite de enviar um issue/pull request no [Github ](https://github.com/Zeptiny/docs)ou em nosso Discord.
+
+## Hospedagem que solicitaram remoção
+
+### Syrtex.com.br
+
+Solicitou a remoção dia 7/04, será avaliada novamente em Maio de 2024.\
+Parece que não ficou muito contente com a nota que recebeu.
