@@ -73,6 +73,10 @@ Mais informações sobre os pontos observados estará disponível na página ded
 [xmxcloud.net.md](xmxcloud.net.md)
 {% endcontent-ref %}
 
+{% content-ref url="redhosting.com.br.md" %}
+[redhosting.com.br.md](redhosting.com.br.md)
+{% endcontent-ref %}
+
 {% content-ref url="bedhosting.com.br.md" %}
 [bedhosting.com.br.md](bedhosting.com.br.md)
 {% endcontent-ref %}
