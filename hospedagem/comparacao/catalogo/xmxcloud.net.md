@@ -28,19 +28,19 @@ Caso alguma informação apenas foi possível adquirir por meio do suporte
 
 {% tabs %}
 {% tab title="Painel" %}
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Subdomínios" %}
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Instalador de versões" %}
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Server Splitter" %}
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -50,7 +50,7 @@ Caso alguma informação apenas foi possível adquirir por meio do suporte
 
 \[1] - Nos termos de serviço, contém uma seção chamada "Acréscimo por Downtime":
 
-<img src="../../../.gitbook/assets/image (4).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (4) (1).png" alt="" data-size="original">
 
 Tem duas maneiras de interpretar essa informação, já que não contém o Uptime mínimo:
 
@@ -66,7 +66,7 @@ Se for a segunda interpretação, o uptime mínimo garantido pela XMX, poderá s
 
 A fração inconsistente pode ser observada em todos os planos da XMX, segue exemplos:
 
-<img src="../../../.gitbook/assets/image (5).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (5) (1).png" alt="" data-size="original">
 
 Ela não relata o limite de processador, o que já se enquadraria na fração inconsistente devido a falta de informação, entretanto, comparando RAM e Armazenamento já é possível verificar:
 

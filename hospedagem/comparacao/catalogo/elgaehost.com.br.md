@@ -28,11 +28,11 @@ N/A
 
 {% tabs %}
 {% tab title="Painel" %}
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Splitter" %}
-<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 No Server Splitter da Elgae é possível criar servidores, o egg pode ser alterado após a criação do servidor, com possibilidade de editar os recursos após a criação.
 {% endtab %}
@@ -80,7 +80,7 @@ Para subdomínios apenas existe uma seleção, elgaehost.com.br
 {% endtab %}
 
 {% tab title="Pesquisa" %}
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 A pesquisa da Elgae é capaz de pesquisar arquivos, informações dentro dos arquivos e dentro de backups.
 {% endtab %}
@@ -109,7 +109,7 @@ Backups automáticos dos arquivos
 <summary>Observações adicionais</summary>
 
 \[1] - Também pode se ter o Ryzen 9 7950X3D na hospedagem da Virgínia, não está citado no website.\
-![](<../../../.gitbook/assets/image (6).png>)
+![](<../../../.gitbook/assets/image (6) (1).png>)
 
 \[2] - Fração inconsistente encontrada em todos os planos do Minecraft Avançado, alguns exemplos estão a seguir:\
 ![](<../../../.gitbook/assets/image (9).png>)![](<../../../.gitbook/assets/image (10).png>)

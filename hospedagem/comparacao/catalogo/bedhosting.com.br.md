@@ -32,7 +32,7 @@ Caso alguma informação apenas foi possível adquirir por meio do suporte
 {% endtab %}
 
 {% tab title="Subdomínios" %}
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -42,7 +42,7 @@ Caso alguma informação apenas foi possível adquirir por meio do suporte
 
 \[1] - Fração inconsistente presente em todos os planos de Minecraft, de todas as localizações e planos. Segue exemplos abaixo:
 
-<img src="../../../.gitbook/assets/image.png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="original">
 
 Segue exemplos a cima da categoria Ultra Brasileira.
 
@@ -56,15 +56,15 @@ Não cita o armazenamento de cada plano, o que também anularia a pontuação da
 
 * Na citação do Magic Transit, em alguns locais está citado como "BedGuard", indicando uma implementação própria de forma incorreta.
 
-<img src="../../../.gitbook/assets/image (1).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (1) (1).png" alt="" data-size="original">
 
 * Nos planos do Canadá e Estados Unidos utilizam a proteção da OVH, da própria provedora, enquanto é "melhor do que nada", a proteção da OVH é conhecida por não ser a mais eficiente
 
-<img src="../../../.gitbook/assets/image (2).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (2) (1).png" alt="" data-size="original">
 
 * No financeiro da BedHosting, a hospedagem dos Estados Unidos citam utilizar "Anti DDoS PRO" de 12Tbps de capacidade, indicando uma inconsistência de informações.
 
-<img src="../../../.gitbook/assets/image (3).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (3) (1).png" alt="" data-size="original">
 
 \[3] - Último dia que as informações sobre os adicionais foram atualizadas: 24/01/2024
 
