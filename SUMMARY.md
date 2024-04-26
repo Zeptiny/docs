@@ -53,6 +53,7 @@
   * [Pegando IPV4 do servidor](rodando/guias-basicos/pegando-ipv4-do-servidor/README.md)
     * [Pelo mcsrvstat](rodando/guias-basicos/pegando-ipv4-do-servidor/pelo-mcsrvstat.md)
   * [Permitindo jogadores piratas](rodando/guias-basicos/permitindo-jogadores-piratas.md)
+  * [Pesquisa Binária](rodando/guias-basicos/pesquisa-binaria.md)
 * [Guia de otimização](rodando/guia-de-otimizacao/README.md)
   * [Software do servidor](rodando/guia-de-otimizacao/software-do-servidor/README.md)
     * [Como são os forks de diferentes softwares](rodando/guia-de-otimizacao/software-do-servidor/como-sao-os-forks-de-diferentes-softwares.md)
