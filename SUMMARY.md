@@ -40,12 +40,12 @@
 * [Comparação de hospedagem - EM TESTES](hospedagem/comparacao/README.md)
   * [Pontos considerados](hospedagem/comparacao/pontos-considerados/README.md)
     * [Modelo de comparação](hospedagem/comparacao/pontos-considerados/modelo.md)
-  * [Catálogo de hospedagem](hospedagem/comparacao/catalogo/README.md)
+  * [Catálogo de Hospedagem](hospedagem/comparacao/catalogo/README.md)
     * [ElgaeHost.com.br | 8](hospedagem/comparacao/catalogo/elgaehost.com.br.md)
-    * [MagnoHost.com.br | 6.1](hospedagem/comparacao/catalogo/magnohost.com.br.md)
+    * [MagnoHost.com.br | 5](hospedagem/comparacao/catalogo/magnohost.com.br.md)
     * [XMXCloud.net | 4.9](hospedagem/comparacao/catalogo/xmxcloud.net.md)
-    * [RedHosting.com.br | 4.5](hospedagem/comparacao/catalogo/redhosting.com.br.md)
-    * [BedHosting.com.br | 4.4](hospedagem/comparacao/catalogo/bedhosting.com.br.md)
+    * [RedHosting.com.br | 4.9](hospedagem/comparacao/catalogo/redhosting.com.br.md)
+    * [BedHosting.com.br | 3.4](hospedagem/comparacao/catalogo/bedhosting.com.br.md)
 
 ## Rodando um servidor <a href="#rodando" id="rodando"></a>
 
