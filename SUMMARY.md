@@ -42,7 +42,7 @@
     * [Modelo de comparação](hospedagem/comparacao/pontos-considerados/modelo.md)
   * [Catálogo de Hospedagem](hospedagem/comparacao/catalogo/README.md)
     * [ElgaeHost.com.br | 8](hospedagem/comparacao/catalogo/elgaehost.com.br.md)
-    * [MagnoHost.com.br | 5](hospedagem/comparacao/catalogo/magnohost.com.br.md)
+    * [MagnoHost.com.br | 7](hospedagem/comparacao/catalogo/magnohost.com.br.md)
     * [XMXCloud.net | 4.9](hospedagem/comparacao/catalogo/xmxcloud.net.md)
     * [RedHosting.com.br | 4.9](hospedagem/comparacao/catalogo/redhosting.com.br.md)
     * [BedHosting.com.br | 3.4](hospedagem/comparacao/catalogo/bedhosting.com.br.md)
